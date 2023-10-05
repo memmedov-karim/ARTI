@@ -1,0 +1,149 @@
+-----------------------Utis-Bolme
+Utis-2748386,bolme-( ->A)
+Utis-3016758,bolme-( ->A)
+Utis kod səhfdir-1706323
+Utis kod səhfdir-2723528
+Utis kod səhfdir-2120718
+Utis kod səhfdir-2721119
+Utis kod səhfdir-3173606
+Utis-2718712,bolme-(R->A)
+Utis kod səhfdir-2708502
+Utis-3031820,bolme-(R->A)
+Utis kod səhfdir-3097007
+Utis kod səhfdir-3172018
+Utis-2791936,bolme-(R->A)
+Utis kod səhfdir-2790429
+Utis kod səhfdir-2663241
+Utis kod səhfdir-285101
+Utis kod səhfdir-9096743
+Utis kod səhfdir-2790688
+Utis kod səhfdir-318969 
+Utis kod səhfdir-2777313
+Utis kod səhfdir-3003224
+Utis kod səhfdir-2167529
+Utis-3153769,bolme-(R->A)
+Utis-3124238,bolme-(R->A)
+Utis kod səhfdir-2661169
+Utis kod səhfdir-2750959
+Utis kod səhfdir-3155005
+Utis kod səhfdir-3928872
+Utis kod səhfdir-1731015
+Utis kod səhfdir-2709005
+Utis kod səhfdir-1695980
+Utis-2760154,bolme-(R->A)
+Utis kod səhfdir-3022122
+Utis-3140098,bolme-(R->A)
+Utis kod səhfdir-3080302
+Utis kod səhfdir-273934 
+Utis kod səhfdir-2770597
+Utis kod səhfdir-2784646
+Utis kod səhfdir-2736111
+Utis kod səhfdir-1894175
+Utis-2803966,bolme-( ->A)
+Utis-2715757,bolme-( ->A)
+Utis kod səhfdir-2749061
+Utis-2737269,bolme-(R->A)
+Utis-2713313,bolme-(I->A)
+Utis kod səhfdir-4242778
+Utis kod səhfdir-2704212
+Utis-3129110,bolme-(I->A)
+Utis-2749632,bolme-( ->A)
+Utis kod səhfdir-2145487
+Utis kod səhfdir-2867790
+Utis kod səhfdir-3129219
+Utis kod səhfdir-2784307
+Utis-3015458,bolme-( ->A)
+Utis kod səhfdir-2909218
+Utis kod səhfdir-2720422
+Utis-3037351,bolme-(A->R)
+Utis kod səhfdir-2806976
+Utis kod səhfdir-2877378
+Utis-2701384,bolme-(-->A)
+Utis kod səhfdir-28 2803
+Utis kod səhfdir-3123099
+Utis kod səhfdir-3139109
+Utis kod səhfdir-276884 
+Utis kod səhfdir-2751806
+Utis kod səhfdir-2893757
+Utis kod səhfdir-291088 
+Utis-2887806,bolme-(R->A)
+Utis kod səhfdir-2818251
+Utis kod səhfdir-320603 
+Utis kod səhfdir-2930082
+Utis kod səhfdir-2930821
+Utis kod səhfdir- 283843
+Utis kod səhfdir-4000150
+Utis kod səhfdir-2862788
+Utis kod səhfdir-3994139
+Utis kod səhfdir-1883175
+Utis kod səhfdir-2803408
+Utis-2876296,bolme-(R->A)
+Utis-2975379,bolme-( ->R)
+Utis-2866402,bolme-( ->A)
+Utis kod səhfdir-2766037
+Utis kod səhfdir-2822749
+Utis-2836188,bolme-(R->A)
+Utis-3683290,bolme-( ->A)
+Utis-2963895,bolme-(R->A)
+Utis kod səhfdir-3140081
+Utis-2694986,bolme-(I->A)
+Utis kod səhfdir-3158001
+Utis kod səhfdir-2196073
+Utis-2801936,bolme-( ->A)
+Utis-2726138,bolme-( ->A)
+Utis-3095381,bolme-( ->A)
+Utis kod səhfdir-2863762
+Utis kod səhfdir-6283430
+Utis kod səhfdir-2972770
+Utis kod səhfdir-3038925
+Utis kod səhfdir-2363592
+Utis kod səhfdir-2821819
+Utis kod səhfdir-2915856
+Utis kod səhfdir-2936322
+Utis kod səhfdir-2922864
+Utis kod səhfdir-2963003
+Utis-1651145,bolme-( ->A)
+Utis kod səhfdir-2928929
+Utis kod səhfdir-2963992
+Utis kod səhfdir-1870088
+Utis-2793890,bolme-(R->A)
+Utis kod səhfdir-2036382
+Utis-2884477,bolme-(R->A)
+Utis kod səhfdir-3656476
+Utis kod səhfdir-2784794
+Utis kod səhfdir-300548 
+Utis kod səhfdir-5020544
+Utis kod səhfdir-2911136
+Utis-2822049,bolme-(R->A)
+Utis kod səhfdir-3119761
+Utis-3023763,bolme-(R->A)
+Utis-2731585,bolme-( ->A)
+Utis kod səhfdir-314757
+Utis-3236481,bolme-(R->A)
+
+
+
+-------------------------------sinif
+Utis:2961989;(  ->06})
+Utis:3050891;(07->06})
+Utis:2702454;(04->07})
+Utis:3107150;(07->06})
+Utis:2725571;(08->07})
+Utis:2713093;(08->07})
+Utis:3276146;(06->04})
+Utis:2779992;(09->07})
+Utis:3131890;(07->06})
+Utis:3121211;(05->06})
+Utis:2847833;(06->07})
+Utis:2752627;(06->07})
+Utis:2916170;(90->06})
+Utis:3049965;(04->06})
+Utis:3103659;(07->06})
+Utis:2793264;(  ->06})
+
+
+-------------------------eyni utisi
+
+UTIS:3144106,REPEATED:2
+UTIS:3027444,REPEATED:2
+UTIS:3109557,REPEATED:2

@@ -1,0 +1,50 @@
+Sürüşmə tapıldı:882,Utis:3197218
+Sürüşmə tapıldı:1759,Utis:3114048
+Utis kod səhfdir-2721119
+Utis kod səhfdir-3173606
+Utis-2718712,bolme-(R->A)
+Utis kod səhfdir-2708502
+Utis kod səhfdir-2777313
+Utis kod səhfdir-3003224
+Utis kod səhfdir-2167529
+Utis-3153769,bolme-(R->A)
+Utis-3124238,bolme-(R->A)
+Utis kod səhfdir-2661169
+Utis-3110559,bolme-( ->A)
+Utis kod səhfdir-2750959
+Utis kod səhfdir-3155005
+Utis kod səhfdir-3928872
+Utis-3140098,bolme-(R->A)
+Utis kod səhfdir-3080302
+Utis kod səhfdir-2770597
+Utis kod səhfdir-2784646
+Utis kod səhfdir-2736111
+Utis-3037351,bolme-(A->R)
+Utis kod səhfdir-2806976
+Utis kod səhfdir-2877378
+Utis-2701384,bolme-(-->A)
+Utis kod səhfdir-3123099
+Utis kod səhfdir-3139109
+Utis kod səhfdir-276884
+Utis kod səhfdir-2751806
+Utis kod səhfdir-1883175
+Utis kod səhfdir-2803408
+Utis-2876296,bolme-(R->A)
+Utis-2975379,bolme-( ->R)
+Utis-2866402,bolme-( ->A)
+Utis kod səhfdir-2766037
+Utis kod səhfdir-2822749
+Utis-2836188,bolme-(R->A)
+Utis-3683290,bolme-( ->A)
+Utis-2963895,bolme-(R->A)
+Utis kod səhfdir-2922864
+Utis:2702454;(04->07})
+Utis:3107150;(07->06})
+Utis:2725571;(08->07})
+Utis:2713093;(08->07})
+Utis:2779992;(09->07})
+Utis:3131890;(07->06})
+Utis:3121211;(05->06})
+Utis:2847833;(06->07})
+Utis:2752627;(06->07})
+Utis:3049965;(04->06})

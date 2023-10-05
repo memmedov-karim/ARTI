@@ -1,0 +1,544 @@
+FWRiD       WLiYEV        SAMiR      348074104  A 125110555152171 KDDCAADBABBADDBCAABCBCDDBBDBCDCBCBCBDBACDCDADB                                                                           
+ARDA        QULiYEV       ANAR       333768404  A 120020776334455 KDDCCADCAACBDADCAABBCCDDDACCADABADBBAAAADADCBB                                                                           
+HAFiS       WLiYEV        SALEH      348117004  A 125120504488033 KDCDAACABBCDDCBABADBBDDACACCC CCAABCDDBABACCDB                                                                           
+MWHWMMWD    WZiZLi        RAZi       337997404  A 120020707334457 KDDCAAACCACCBACCBADADDDDAACC ACCAABBCDCBAADCAB                                                                           
+AYLiN       MWHWRRWMOV    iLKiN      342333904  A 12501075473102  QBCBADCC CCD DDDCBD AD *DBABD ACDBDCBDAD  AC B                                                                           
+HÜSEYN      ABASLI        ZAUR       338005404  A 125180703388161 KDCABDABDABDADDDCBBABDCBDCDCDBCCABBAACBDDBACAC                                                                           
+FATiMW      HÜSEYNLi      SADiQ      331305804  A 12517           QA C ABC AC A A  AC   DAA ABACDBB  D  AADA        E                                                                      
+NAHiD       AgAZADW       sAiQ       337971704  A 125180505821278 KABCADCCBBCCDBAACDAAABADDCACDDCDAABCAACAAABDCD                                                                           
+GÜLAY       WLiYEVA       SAMiR      348109504  A 125110552530009 QDDCAADBABCBDDBAAACCCCABBACADDCBAACDABCDBDBAAB                                                                           
+BALABACI    AgALI         sAMXAL     332442004  A 015270557131316 QDDCAADBBBBBDACABABCDC DBADADDDBBBDAA A DC  AD                                                                           
+SARAXATUN   KAZIMLI       MWMMWDTAgI 332708104  A 125040709820322 QDDCAADBA CBDACDBABDDCADB BBDDBBCBBAC ACDCD D                                                                            
+YAQUB       ALMAZOV       ELGÜN      340328304  A 12523           KDDCAADCBCCBD  C ABB D AB DADDBBBB AD BADAB  A                                                                           
+MURAD       NWCiYEV       RAC        335543904B A 12004           KDDCAADCCACCDDCDAABBAD DBABA DABAA   BBBDAB BA                                                                           
+KWNAN       TEYMURZADW    RAMiD      330617404  A 12502           KDDCAADCCBCBADCC ABD CBDB BCABABABDCCBBABACADC                                                                           
+FWRWHXANIM  KAZIMOVA      FWXRi      339669704  A 125010517926868 QDDCAADCBBCCDACDAABBACDBBDDCCDBBDADBAAABD BCAB                                                                           
+NAMiQ       BAXsiYEV      SÜBHAN     350328904  A 12526           KDDCAACBC BBDD C ABBBCDBB AB  BBABDAB CDDAB CB                                                                           
+ELCAN       RUQiBAXAs     RWHMAN     332641204  A 12001           KDDAABBCBACCCDBABBDBCBDDCBDCBCABCABDDBAACABCDB     C                                                                     
+MiKAYIL     siRMWMMWDLi   MÜsFiQ     350277204  A 12526           KDDDAAACC CADCBAAAB AA  B CCDD CABDD B  CA DB                                                                            
+iBRAHiM     KWRiM         SWBUHi     337996304  A 12002           KDDCAADC BCCDCBCAABBDCDBC DBADDBDBDCBACBBCBCAB                                                                           
+YUSiF       ZAYIDLI       VÜSAL      362859304  A 12501           KDBABABBBDABCBADBCBACCDDAADAADABBDCBDBBAABDCDA                                  E                                        
+SWNAN       MWMMWDZADW    AQiL       337991104  A 12001           KDADAACCACBBDACDBABBADCBADDBAAACBBBCBBABCBBC                                                                             
+RAFiQ       FWTWLiYEV     RAMiZ      332798004  A 12001           KACACBCCBDBAADDCBADDACADACBBABAACB ADBACDDAABA                                                                           
+RÖYAL       CWFWRLi       sAHiN      338489104  A 12520           KDABCBCBAADBDBDACDBBABDDCADABBCADABCCDBBABBCCB                                                                           
+KWRiM       NURULU        MiKAYIL    338041204  A 12518           KACCAA CBCAAABAAAABAAAAAAABAAAAAAAAB AACBBAAAB                                                                           
+ZWKA        ABDULLAZADW   iQBAL      335016004  A 12004           KDDAAADBBDCACDCCDABBABAABDBBDDCDBBBDBADDACCAAB                                                                           
+DiNARA      WLiYEVA       ELÇiN      332475904  A 12522           QADCAAACC CBDDBABABBADAB ACBC BCCBBBDDBDDAD CB                                                                           
+iSMAYIL     KAZIMOV       NAMiQ      330355804  A 12501           KDDCAACBCACDBABDDABBDCADBCCBADBDABDDABACDCBADD                                                                           
+COsQUN      CWFWRZADW     ELXAN      336815204  A 12502           KDDC  BB  B DA AAAD DC ABD B  BB BCBBDCCC                                                                                
+FATEH       RWSULZADW     HÜSEYN     332483304  A 12001           KDDCACDBCCCADCBDDABCACBDBDBCDACBCBDCDCCCDBACBD                                                                           
+TUNCAY      RWHiMLi       SWRVWT     335547004  A 12004           KDDCCADCADCBBDCDDABCDC ABADBCDBBCBCCACA CCD DD                                                                           
+HÜSNiYW     AgAZADW       MAHMUD     342561104  A 47523           QDDBAABCBBDBDDDCBABBDABCAACCDBADBBDCCDBDDCCCDD                                                                           
+CWSUR       iBAZADW       KAMRAN     339261504  A 12526           KD CA AB ACBD  CBABB C DA DBDDDBABC      CD D                                                                            
+YUSiF       BAgIROV       ZiYA       340223804  A 12501          4KCDDAACCAACBBDCAAADBBBCCADCBADDCDABADBADDACAAC                                                                           
+NiHAD       HWSWNZADW     RAMiL      339441004  A 125010702187938 KDDCAAACBCCCCDDDAADCBCDDBADABABCDBDCCAAABADCDB                                                                           
+MiRZW       KAZIMLI       CAHANGiR   339482304  A 125010707365910 KDDCAADBABCADD CDABBDC DABBBDDCBABDDB ACCCD                                                                              
+MWHWMMWDWLi ZAYIDLI       AZWR       340016104  A 125010706584343 KDDCAAABBBCBDBDAAABCBCADBDDADDDB BDAAABDBDBADB                                                                           
+FATiMW      QULiYEVA      NAHiD      339410504A A 125010705331957 QDBCAABBBACBDCDCAABCBCADBDCADDBBADBACBCDDADCDD                                                                           
+LAWW        CABBARLI      RÜSTWM     339406104  A 12501           QDDAAADBABDBDD CAABBDC DBDBA DBC BD A A DCC B                                                                            
+MWHWMMWD    WLi           SABiR      336783304A A 125020505635073 KDDAACABBCDADABCBAABC CBCDDABDCDBBBCCAA C CBCB                                                                           
+RWSUL       RÜSTWMLi      ORXAN      340027804  A 12501051956     KDBCAAACBBCADDCDDADCDBACBDABADABAAADDACADAACAC                                                                           
+ZWHRA       ZAYIDLI       AZWR       340008604  AA125010706584343 QDBCADCBDBAACBCDACBBAADACCCDDABABCDDACBDDABCAC                                                                           
+ZWHRA       sÜKÜRLÜ       ELMiR      359826504  A 150020505885973 QDDDADAACABBDBBBAABCDDBBBDDADDABABACBACAABABCB                                                                           
+LWMAN       FWRZiYEVA     MEHMAN     334895804 AA 12514           QDDCAADCACCBDDBCDABBDCDDCDDCADBBABDCBCBDCABBDB                                                                           
+RiZVAN      NAgIYEV       iMRAN      339667104  A 125040503640153 KDD A DBBACADA C ABBDC DBDBBDD CCBBAACBADBBBDC                                                                           
+HÜSEYN      HWMZWLi       RAFiQ      336982604BDA 12502           KDDCAADCABCBDDCADABBDCCDBBBBDDBBCBCBBCDCCCDADD                                                                           
+ÜLKWR       AgAYEVA       RACi       339429604  A 125010705806272 QD  AD CBACBDACCAACB CACBCDB DDDDD  D AADABCDD                                                                           
+NiCAT       WLiYEV        ELMWDDiN   339660704  A 125010703890700 KDDCA ACDBBBDD CAABBBCADBCDB DDACCCCDBACCADCAD                                                                           
+AYSU        YAQUBLU       RASiM      339157304  A 15512           QDCCACCCDBCBDDCAABDBBDDCADBBADABBCCAADAADAAADC                                                                           
+WLi         sÜKÜRLÜ       VÜQAR      360112504  A 15002           KDDBAABCCACCDCCBABCCCDCDBACBABCBBADDACBABABCAB                                                                           
+VALiD       VWLiZADW      CEYHUN     335584004  A 12004           KDDCAADBCBCADCCCDABBDCDDBDCBDBCCCBCDADADDDACDD                                                                           
+MAHMUD      WMiRLi        ELNUR      337104104A A 12512           KDCAAACBDBBCADDADACBCBACCCCACBBBCDBCCDCCBACCCA                                                                           
+ZÜMRÜD      ABDULLAYEVA   ELsAD      339104104  A 15512           QDDCADACDBDDDCDABABBBDBABDBBADABBBBABDAADAAADC                                                                           
+WSMA        sAHVERDiLi    ELMAN      336235904  A 12512           QDDCAACBDBCBCAADAACCACDABCCBDACCACBBDAADBABCAB                                                                C          
+iLKNUR      iSGWNDWRZADW  HAFiZ      354852304C AA420060517907171 QDDCAADBAACBDDBCDABBDCCDBDDBCDBBCBCACCAADCBDDA                                                                           
+SARA        TAgIZADW      ELNUR      350592704C AA420060705436838 QDDCAADBABCBDDBCCABBDCCDBDDBCDCBCDCABCAACCDBDA                                             C                             
+sAHiN       MiRZWZADW     RAFiQ      351217704  AA420062506063    KDDCAADBABCBDDBCDABBDDCCBBDBCDDBCBADBCAACCDCDA                                                                           
+NAHiD       AgAYEV        SAHiB      350786204C AA4200605048198984KDDAAADCDACBDA CABBDDDDDBADADDABBBD  CAADCBCDB                                        EE                                 
+AYLiN       MiRZWZADW     TEYMUR     337278904  AA420040507921902 QDDCAADBCBBBDD CBABBCCADBDDBDDCBBB  BCAACC DBA                                                                           
+DiLsAD      sABANOV       RAMiN      350665304C AA420060506429554 QDDCAADBABCBDABCDABBBCCCBDBBDDCC*BDBCCAAACCDDA                                                                           
+NUHAY       sAHBAZOVA     FWZAiL     350300504C AA42006           QDDCAADBABCCBCBBDAABBCDDBDBBCDBBCAAACCAACCBDDA                                                          CC               
+MWHWMMWD    MUSAYEV       TALE       337750004C AA42006           KDCCACDBDADAADCADACBDCADBCDCDCBDCABCDDA*ADBCAD                                                                           
+RZA         FWRWCOV       KAMRN      338001104A A 420060515075484 KDDCAADCDACBDDBADABBDCCDBACBDDDBBB BADCBDDBAAB                                                                           
+AYAN        sAHBAZLI      ELVi       341839104B A 420060707776319 QDDCAACBABCBDDACAABCDC  BD A D BABD      C  D                                                                   B        
+NURAY       MURADOVA      ASiF       337686304B A 425260507497398 QDDCAADBABCBDCCD ABACDDDBDDBDDCBBBCBBC ABCDCDB                                                  C    D          B        
+WSKWR       sWRiFOV       HAFiZ      336421504B A 425460515597645 KDDCAAABCBCBDABCAABBDCDDBDBBDDBCCBDCCCDACADCAB                                                                           
+BANU        HEYDWRLi      AgASiM     340795004A A 420030507305540 QCDCAACBCACADAACDAB CCDDBBCABDCCCACCAABDDABDCD                                                                           
+FWRiD       HEYDW         KAMiL      338416804A A 425380503827411 KADBACDCCBABDACDBABCCDCBDDACAAAACABBCBDBDABCB                                                                            
+TÜRKAN      sWFiZADW      TURAL      339156404A A 425520507245690 QDDCAADBABCBDCACDABBDC CB BB D BCB BBCACDCD D                                                                            
+HÜSEYN      AgAYEV        MAHiR      341980404A A 420060505339093 KDDCAADCACBABAACAABBBCDDBDCCAACBDADABCBADDDCAB                                                                          C
+NAZiR       BABAXANOV     VUQAR      338751804AAA 42556           KDDCABCCABCBDBDDAABCCCDDBAAABBACABAABBAADABDAB                                                                           
+MÜNWVVWR    HWSWNZDW      TALEH      356186204A A 420050509774022 QDACADACCABDCDBDCADBDCADBBDBADCBACADDCACCABAAB                                                       C              DDDDD
+RÜQWYYA     BABAYEVA      EMiN       337670504C A 425200504642468 QDDBAADBABDCBAACAACABCBBADDCBCACBDCCCBADCABAAB                                                                           
+SWMA        MWMMWDOVA     iLKiN      337252204A A 420060555128869 QDDCAADBABCCDBDCAABBDCDBBADBDDCCCBDDDDA  ABAA                                                                   B        
+AYLiN       MÜRsÜDLÜ      MEHMAN     349194704C AA420060703425458 QDDCAABBAACBDDBCADBBBCCDBDBBDDBBCBCACCAACCBDDA                                                                           
+AYAN        ABBASOVA      MURAD      338569104C AA420060505143090 QDDCAADBABCBDDBCDABBDCCDBA ADDCBBB  BCAACCDBDA                                                                           
+ZEYNWB      MiRZWZADW     XALIQ      362166104C AA420060518110719 QDDAAADBABCADDBCBABDBCCDBDDBDDCBCBCACCAAACBDDA                                                                           
+ELMiRA      GÜLALiYEVA    RUSLAN     350487304A AA42006           QDDCAACBCCCADAAAAADADC*BA DBDCBADACAC AA C  DA                                                                           
+SWiD        BAYRAMOV      CAViD      349224404  A 420060502441114 KDDCAADCABCBDDBCDABBCC DBDBBDDCBCB  A DDDB DAB                                                                           
+AYXAN       SADIQ V       KAMRAN     339375904  AA420040519712525 KDDCAABCCBBCDDCDAADDBCDDBBDAABAACBCBCBCABBBBAB                                                              D       EEEEE
+AYDAN       SADIQOVA      KAMRAN     339377404  AA420040519712525 QCDCAABCACBABACDBADBCDADBDAADACDACACDBAACDDCDB                                                                           
+iSMWT       WLiYEV        iSMAYIL    337493104  A 425260514037187 KDDCAABC ABDDDADDACBDCDBBACBDDABBBCAACCC AD AAD                                                                          
+FATiMW      ELDAROVA      iLYAS      345648004  A 43528           QDDCADDCDBBCDDBCAABCACAABACBACBBDBCCABCDCACABD                                                                           
+ZWHRAYY     ABiYEVA       ELViN      337452504  A 425260504509692 QDDCACDCCBCBDCDCBAB BCDBADBAABBCCB BA D DAB A                                                   E                        
+ZÜMRÜD      FWRZWLiZADW   RiNAT      334263004  A 075050507258097 QDDCAABBAACADCACDABCACCDBDDADDBAABBADBA BAB DD                                                                           
+HÜSEYN      HADIZADW      BWXTiYAR   342335404  AA420060505502284 KCCBDDACADBCACBCDDBBADCDBACCCCACAABCCABDDABCBB                                                                           
+sÜKRAN      SALAYLI       AYDIN      337518104  A 425260559475171 QDDBACDCDACBDCDDBABAACDDBDBAADDCCBDAABCCDABAAB                                                                           
+MUHAMMWDWLi ATAKisiYEV    RAZi       339114604  A 42006           KDCABADDADBAACDCDBCABAADBCBDBCADDCBCDCDBDBBBAD                                                                           
+YUSiF       ABDULLAVEV    ZAMiQ      337565104  A 42526 666       KDBCA DCDBACDBBCAABB C DCDBBA BCDBDBAABCDABBAC                                                                           
+MiRHÜSEYN   siRVANZADW    NWRiMAN    339004004  A 420060703128000 KDDCAADCABCCDDBDDABBDCDCBADBDDCBCBDABDDDBADADA                                                                           
+WLi         sGMiYEV       ZAUR       338986904A AA425270503093454 KDCBBABABBADCDACACCBACACDABCDAADABBDBBBDCCBCBD                                                                           
+WLi         WLiZADW       XALiD      337538104  AA42526           KDDCACCCBDCADBCBAADCDDDDBBDCBBBDABDCABABDCBABB                                                                           
+CEYRAN      NAgIYEVA      AQiL       342084504C AA42010           QDDCAADBABBBDCBABABBDCBABDDBDD BAB B CDA CDCDB                                                                           
+NURAY       MWMMWDZADW    MEHMAN     351072104B A*42006           QDDCACCCDCCBDABCAABCDCDDBBAAADDCCBBCDBAACBA DE                                                                           
+ADiL        ABiYEV        WZiZ       362111304B A 420060506971128 KDDCAADBCCBBDCDCBABCCCADBBCBDBDBCBDCCBABBADBAC                                                                           
+ZWHRA       BAgIROVA      iBRAHiM    342320004B A 42567          3QDAAAB C  CBD   AABBCC  BDDCD ABCBDADBCBBCBC B                                                                           
+RWSUL       AXUNDOV       ZAUR       351155104C A 420060502159551 KDBCAABCDDCAACCAAABABABDDDDBDBACCDBCBDAABCDABAA                   AA BB                         D                       D
+BANU        BEQiZADW      XWYAM      351011104B A 420060503807907 QDDCAADBCBCDDCCCDABBDCDDBADBDDBBCBDDDBACDDBADB                                                D                          
+ZEYNWB      MEHTiYEVA     RAMiN      337862904B A 420060559090384 QDDBAAACCBBDBBBCAABBBCCDBACABBBBBABDDBABDCABAB                                                                           
+AYAN        CWFWROVA      COsQUN     350969704B A 42006           QDDCABABABCBDDCBAABCCC DBACBDDDCCBDA BCBBDB  B                                                                       C*  
+ASiMAN      WLiZADW       ANAR       325718304A A*42006           KDDCAAABCDDADDCCBABAACDDBDCCADDB*DDDDBBCCABCAB                                                                           
+YAgMUR      MWMMWDLi      SALEH      335012804B A 425480503652730 QDDCADDBDACDDAADACBADCDBBCCC CCBABDCAACADADDAA                                                                           
+MiRELXAN    WLiYEV        ELMAR      338762904A A 425594399       KDDCAADCDBCBDACCAABBABDDBDCADDDBABDCBDADB*BBA C                                                                          
+DWNiZ       ABBASZADW     NWCWFWLi   336869504A A 420050518700770 QDDCAADBCCCDDCCBBABBDBDBBADBDDACCBDDDBADDDBADB                                                                           
+YUSSF       HWSANZADW     RUSLANN    337045004A R 420042025444    KDBBA CCABDCDBBDAABBDCCAADCBDCCBCB CDABBBAACDB                                                                           
+ZWHRA       iBRAHiMLi     sWFi       338859204  A 420040509900344 QDDCADDBAACBDBADACBAACADBADBDDABDBDDBABBBABCAC                                                                           
+NWRGiZ      ABDULLAZADW   ABDULLA    339770904A A 425660505196177 QDDCADDBCBCBDCBCDABBDC DBDDBDDBBCBD BCCABCB  D                                                                           
+RAHiD       CANiYEV       NAHiD      332611504BAAA075220556656565 KDDCAADCABCBDD CDABCDCCDBDBBDDCBCBBBBCACCCDDD                                                                            
+ZEYNWB      BÜNYTOVA      iLQAR      351242304B AA4200 0507489779 QDDCAADCCBCADDDDBABBDCBAACDBCDCBDBDABBAADCCCDD                                                                           
+ZEYNWB      MWMMWDOVA     PWRViZ     362087504C A*420100555286420 QDDCAADCABCBDDAAAABBBCDDBDCADDDB AD DC  DA CAD                                                                           
+MEHRiBAN    RZAYEVA       ZAUR       336695004Ç AA420060505464150 QBDCAABBCDCBDABCAAACBBDDDCBCDDADABBDAACBBACABC                                                                           
+MAARiF      MUSAYEV       ELsAD      354536504A A*42526           KDDCAADBCBCBDBADDABBDCDDBDDBDDBBBBBCBBDACCDCDD                                                                           
+MiRYUSiF    BWsiRLi       RAMiN      343537804A A*420020515295717 KDDCAABBDBCADDACDCBCDCBDBDCBCDCDCBDCADDCBDCADB                                                                           
+MEHDi       HÜSEYNLi      BWHRUZ     343538104AAAA420020503713767 KDDCAA BBA BDAAAAADCCBBD A AD ACABDC  CDBCDCBD                                                                           
+AYLiN       BABAZADW      NAiB       339379404B A 420060513133383 QDDCAAABABCADBBCAABCACDABDDADDDBBB AABABDACADA                                           DD                        E     
+RWSUL       CABBARZADW    VALEH      352002204C A 42006           KDDCAAACDBABBADCBABBDC DBCDBDD CBBDAAB   AADA                                                                            
+MiRHÜSEYN   AgA           SAMiR      336422604C A 425030502441146 KDDCAADBDCCBDA C ABB C DBADBAD BCBDAD ADCBABDD                                                                           
+YUSiF       iBRAHiMLi     ERViN      350820704C A 420060517593763 KDDCAAACCBCBDADCBABBDC DBCBADD BBBDABB   CAD                                                                             
+TUNAR       CABBARLI      ELNUR      352021104CAA 42006       6   KDDCDADCBCDCCABADABCCCDABADBABCAAABABCBCAAACDA                                                                           
+NiCAT       MiRZWYEV      ZAUR       342035704B A 49010           KDDCAAABBBC DD ADABB CCDBDDBDDDBBBCA  AC CA                                                                              
+WLi         WLiRZAYEV     RAHiM      337122704F A 420040505997060 KDDCAADBCACCDCADDABBDCDBBDCBDDABCBACAACCCCBADD                                                                           
+WLi         BAgIROV       ELsWN      348939104A A 42006           KDDCAAACCABBDAADAABCCCDDAACBCDDBCAADABBBBACCAB                                                                           
+ZEYNWB      RZAZADW       FWRRUX     348897204A A 42006           QDDCAADBDCCADABCAABBAC BBCDAAAABDCAABDAADABADD                                                                           
+RAUF        HWNiFWYEV     RWsAD      339388804B AA420060507703691 KDACAACCCDABDDDDAABBCCDDBDCBAABBAADBDADBDACACD                                                                           
+WLi         iSAZADW       ASiF       348847204A A 420060508776004 KBCAADA*ADDCADDCABBDADBBDADABCDBAABCDBBDCABCCB                                                                           
+SUMAYW      MWMMWDZADW    ADWM       351233604B AA420060553534430 QDDCAACBCDCBDCBDBABCBABDDACCABCACADADBCBDBCACD                                                                  C        
+HSÜEYN      iSAYEV        VASiF      354890304B A 420060505535516 KDDCAADCDACADADCBABBBDDDBDCADABDDADCACBDDABDDA                                                                           
+YAQUB       MAHMUD        TURAL      351405604C A 425030516503507 KDDCAADB  CBDDC AABBDCCDBADBDDBBBBDBACABCCAADB                                                                           
+MWRYWM      WLWKBWROVA    WLWKWR     362533204  AA420060504642301 QDDCACDCDABADDDCAADCCCDDBCCBADCCCDDCADBBDAAAAA                                                                           
+WLiBARAT    NAgIYEV       RAUF       333285604B A 420060503151049 KDDCAADCABCADDBABABBDCADBDBBDDBBABDDDCADDCBADD                                                                           
+SAMiD       WLWKBWROV     FARiD      350243404C AR420060503105040 KDCCACBBDCBBDBADBABCCCCBBCCACDCCCBDDCBCADACACD                                                                           
+ELiF        sWRiFOVA      FARiZ      350997104B A 420060504652457 QDACAADCAABBDCADAAACDCDDABCAADDAABBDDBBDDADADB                                                                           
+MWHWMMWD    CWFWRZADW     sAKiR      362143004B A 42006           KDACAADBDCCC*DAAAABBBCDCADDABDCDABDDDBADDABBDD                                                                           
+iBRAHiM     CWBRAY LOV    NWSiMi     350979704B A 420060553223731 KCCCAADCCDABBACDDABCACDDBDDABDDBABBCACCDDCDCDD                                                                           
+NURLAN      NOVRUZLU      ELNUR      339021704A A 425270513707088 KCCAADCCBACDDCBDAADBAAADCADBADBBCDBACBABBCBABD                                                                           
+WLi         MiRZWZADW     FiZULi     340347404  A 42550           KDDAAACBBACADDBCDABBDAADACCCBDCDABCCBBCDCCCDCD                                                                           
+RÜQWYYA     MiR WZADW     ADiL       340268704C A 420080506898851 QDDDAADB  AADC CAABBBC AAACB DD ABDC AA CAACAD                                                                           
+MUHAMED     QASIMOV       RAMiK      345522104  A 420050503701787 KDCBAADCADCABDAABABDBACCBACCCACCCBCDCCDBCBBCAC                                                                           
+KWNAN       iSAYEV        QWRiB      350838804  A 420040514408277 KDDCBCCCDCBDACCCCABAADBDACAAAABBABBCBBCDCADCBC                                                                           
+MiRRAHiM    CWFWROV       WNVWR      351173804B A 420060503557746 KDDCA CCABCBDD CDABCCCCABDDADDABBADBB   CCC D                                                                            
+ZWHRAW      SEYFULLAZADW  YUSiF      336168004  A 42501           QDDCAABCCBBBBDBDAABCACBBACBBACDBDDCDACBBBABBDC                                                                           
+iLAHW       iSLAMZADW     ELDAR      349104604A A 42006           QDDCAABBCACBDDACAABCCCABADBBDCDBDB DABBBBABBDC                                                                           
+YUSiF       WLiYEV        XALiD      362032104A A 420060507740202 KDDCAABCCBCDCAADAABBADABACBBADCDBBCDACBBBABBDC                                                                           
+UgUR        NWHMWTLi      ELNUR      347993904A R 42004           KDDCA  CCBCCDCDCDABC CCDBDDADDBBCB  BCA  CC DCD                                                                          
+YUSiF       NURiYEV       ELDAR      337160204A AA420060515348305 KDDCAABCBBBADDCDDABDCCADBDCBDDDBADACDBCDDBCAAB                                                                           
+YUSiF       ABBASOV       RUSLAN     336000504  A 42003           KDDAACDBCBCCBACDADABCCDBCBABBADDCBBABBBAAABCDC                                                                           
+MWMMWDAgA   ABBASZADW     AsUR       349219004A AR420060514943745 KDDCAABBDACBDDBCDABBCCADBDDBDDDBABACABABCDCCBD                                                                           
+RÜQWYA      NWZWRLi       RAHiD      362026804  A 42006           QDDCCABBDBCBDDDBDACDCDBACBBAAADDCBBDDDBBBCCCAB                                                                           
+LWMAN       MUSTAFAYEVA   ELNUR      349186704A A 42006           QDDCAADBDBCBDDBCDABCDCDDBDDBDDBBCBDAABABCDCCBD                         B  BB                                             
+AgABABA     EYVAZLI       COsQUN     340233604B A 420060702802151 KDDCAABDBABBDDADCADDCCBDCCAACACCBBBDBDAAAABCCD                                                                           
+YUSiF       WHMWDOV       SWBUHi     350955104B A 42006           KDCCA DCBBCADA CCBDCCBABBDACBCAAABDCADCDBABAABA                                                                          
+WSMANUR     ABBASOVA      VALEH      350283404C A 42006           QDDCADCCCACBDCBCAABB AABBBCBCDACCBDABDBADA DAC                                                                           
+MAYA        WLWSKWRLi     WLi        350769704C A 420060504869909 QDDCAACCCACBDADDCABBBCCBBDCBBDADCBCDBAABDCBABC                                                                           
+CAVDDAN     WZiMZADW      ELViN      343537404A A 420020553335696 KDDCAADBCACBDADDDABCBCCDBDDBDDDBCADADACCBAACDB                                                                           
+iBRAHiM     CWFWROV       VALiD      339101204G A 420040516422434 KDDCAADCABCCDC C ABCDC AB D  DDBCBC ACCDCCBADB                                                                           
+AYAN        QASIMZADW     CEYHUN     348851204A A 420060516712171 QDDCAADCCACBDACDBABBBCADCDBADDBBCBCBCCCDCCBADB     A                                                                     
+NURAN       WLiYEV        CWMiL      362191504C A 42006           KDDCAADCDBDDDDCDDADDDCCDADBBDDCBABBBBCDCDCACAC     A                                       DD                            
+sWFiQW      siRiYEVA      ZAMiN      350319904C A 42006           QDDCAADCA CBDABCAABB*   BDDCDDACCABBBBABDADADB                                                                           
+HÜSEYN      BAgIRZADW     ELViN      337940704  A 42006           KDDCAADCDBCDDBDCBABBACADBABA DBBBB CC ADBABADA                                                                           
+GÜNWs       RZAZADW       RAMEs      337667504A A 420060513220878 QD CAB CDBC CA C ABB   DC CB   B B        BBC                                                                            
+LWMAN       HWSWNZADW     ZAHiD      337677004B A 425460517250747 QDACBADBBACBBADABAABCBBBBBBBBADBCDABABBBDAACAC                                                                           
+ZÜMRÜD      BAXsiYEVA     AZWR       362180804C A 420060503734733 QDDCBDDCCADBDDAC ACCDC D DDB DBBCBDBADADDA  DA                                                                           
+FWRHAD      WLiYEV        CAViD      342103204C A 420100507767707 KDDCADDB ACAD BC ABCCCDDDDBB DCBCBD A BADA  DB                                                                           
+AYAZ        AZADOV        EMiL       338948604B A 425270555752032 KDCCDADCCCCBDDCCAABBCBCDBDABDDABCADBABABCACABA                                                                           
+AYXAN       HÜSEYNZADW    NiCAT      350447804C AA420060506345222 KDBCABBDCABBCADDBDACCADCABBCACDDAACDACADACAABD                                                                           
+ESNA        iSMAiLZADW    CEYHUN     350458304C A 4200605077402304QDDADABCDACCBABBDABBDAADDDD CBDCABACCDBCDDAABC                                                                           
+HWMiD       BAgIRZADW     PAMiQ      362080204A A 42006           KDACADDCDACBBBCBDBBBDACDCCDBBAACACDACBADDDDCAC                                                                           
+SAFiYYW     RWHiNLi       MAYiS      359598404B A 420060505937773 QDBCABDCB*CADACDBABBBDDCBDDABBABCABCDDBBBACDBC                                                                           
+ZEYNWB      sWRBWTOVA     EMiN       348845404A A 420062556057  7 QBDDADDCBDCBABCDDBAAACBDACADBBACADACBBBBCDDABD                                                                           
+ZWHRA       AXUNDZADW     BÖYÜKAgA   341976004B A 420100508847717 QDDCAADBABCBDDBCDABBDC DBCBBDDBB BC BCACD ACD                                                                          C 
+LWMAN       WLiZADW       RAFiQ      348257004A AA425220706006336 QDACACCCDABCAACDCCBBAAABBCABBABBADDDCCBBDBACAC                                            D                              
+NWRMiN      MWLiKOVA      XWYAL      331211504  AA42003           QDAACCCCCCAADABADDBDBDDADCABAADBADBBADBAAADBAB                                                                           
+RWSUL       CWFWROV       TWHMWZ     350872004  A 420040503357492 KDBCAACCDBABDACCABBBBDBDBADBCDABABCCDCBCDBBCAB                                                                           
+ZÜBEYR      QASIMLI       AZWRG      341395504Ç A 420109942711227 KDDCAADBCACBDDBCCABBDDADBDCBDDCBABDACDCCCCADDB                                                                           
+MWDiNW      RUFULLAYEVA   NiCAT      349241604B A 42524           QDDCBACCDBCADDDABAACBCDDBCACADACAADBCAAADBCAAC                                                                           
+WIi         RZAYEV        BWHRUZ     337170904F A 420040515214950 KDDCADCBAADBDCDCAADC*CDDBCDCACBBAADCCCDDCAACAD                                                                           
+FWRHAD      NWSiROV       FUAD       342066504B A 425220516338545 KDDCAADBCBC DDAADABB CCDBDDBDDBB B  C     B D                                                                            
+FATiMW      AXU DOVA      SURAC      345929104A R 42004           QDBBBACCBADCCACDBADBBC DBDDBDDABAADCDBBBDADCCB                                                                           
+MWDiNW      KWLWNTWRLi    iSLAM      318187704A A 420030517870605 QDDCAADBCBCCBACCBABBBCADBDDBDDBBABD   A                                                                                  
+ELAY        PAsAZADW      ELMAR      353867804  A 425260505977018 QDDCA DBACCBDA CCABCBC D DDB  C    CDB                                                                                   
+NiHAD       YUSUBZADW     VALEH      356197504A A 420080506886887 KDDCAABBAACDDABAAAADCCADBCABDDDBAABACABDBBACBD                                                                           
+ÜMiD        BAYRAMOV      iLQAR      341838304A A 425500503576003 KDCCABCCCACBDDCDAABCACDDBADBB BBDB ACBBBC AAAC                                                                           
+VÜSAL       RUFULLAYEV    sAHiD      334313904B A 075040708760330 KDDCAADBDCCCDC CBABCDCDDCDBBDDABBBB C D DCD  B                                                                           
+QWMWR       ZEYNALLII     iSKWNDWR   336666604A A 42003426        QDCCACACBCBBDCBDBABBABADBCACADACDACBCCAABBBBCC                                                                           
+MWRYWM      MEHDiZADWW    WKBWR      336631804A A 425190506368584 QDDCAADBDBCBDDADBABCCCDDBDDBDCABABDDD*DDCDDCAA                                                                           
+ZWHRA       WMiROVA       ANAR       334776404A A 420062522427    QDDDAAACBACBDDADDABBDCAAADDADDBBCB DCDABBBACDB                                   A                                       
+NURAY       WLWSGWRZADW   KAMRAA     350630004C A 420060504821000 QDDCAABCABBDBCBCDAACDBADBCDCDDDBCBDDCCBBBABCDB                                                                           
+HÜSEYNWLi   QULiYEV       VÜSAL      336776904A AA420060702419557 KDDCAADCDBCBDDCADABBDCADBDDADDBBCB BCCCDCCBADB                                                                           
+RABiYYW     KWRiMOVA      TURAL      341781304C A 420062550701    QDBC CBCACC CA C BBB C DC DB  DBABDC CBDDAA BB                                                                           
+DiANA       MiRZWYEVAW    MURAD      337614604A A 420060506266225 QDDCAADBAACADABCDABBDCDCBADBDCCBCBCAABDBBDDADB                                                                           
+WSMA        RUFULLAYEVA   CAViD      350266704C A 420060506264140 QDDCA  ACADBDABAAAB A BDABABDADBABBA CAADADCAB                                                                           
+HÜSEYN      BABAZADWWW    BWHRUZ     350391604C A 420060503802280 KDDCAADB BABDDBCDADCDCDDBDBBDD BAB BBC CDC CAC                                                                           
+ZEYNWB      NURLU         RAMiL      349092604A A 420060505437595 QDDCAADBABCCDDBCAABDBCADBBCABDCABA BCCCDCBBCDB                                                                           
+WLiMWHDi    QASIMOV       AMiL       337837304A A 420060514182748 KDDCAACCDCCBDDCCAABBACADBABBDDBBCBC CCCDDCBADB    E                                                                      
+MiRKAMAL    TAgIYEV       NiZAMi     342049804E A 420100504450109 KDDCABABCACDDACCDACBCD CCBDBCBDBCBDDBCCBCBBDDC                                                              E            
+MiRWLWKBWR  HWMiDOV       XWYAL      337125904F A 420040503280380 KDDCAACBCCCBDABADABBDCADBCBCDDCBBBDBACC DCB DB                             AAAA B                                        
+ABDULLAH    MURADOV       NiZAMi     355200004G A 420040502225840 KDDCAADBCBCBDADCDCBBDCADBDDADDCBDBBDBBDACDBAAC                                                                           
+AYDIN       KWRiMZADWW    EMiN       331006904B A 420090516366 00 KDDBAACBCACADBDCBABDAAADAACACCDBBBACBDABCCACAD                                                                           
+WLi         SADIQOV       VUQAR      339153404B A 420020504345599 KDACABCCDADCDACDCBBDACACBCCBABBCDBCDABDBBABCDB                                                                           
+FATiMW      ABIYEVA       MEHMAN     337477904A A 42526           QA CAAACDBCBDCCDAABC DDDBBCC CACCBDDDDDABDBBDC                                                                           
+RÜQWYYA     CAHANGiRLi    ELÇiN      355451204A A 420080559643940 QDDCAADBAACBDACADABBDCADBDDBDDCBCBDCBCCBACDDDD                                                                           
+YÜSiF       ORUCZADWFF    SWRHWWG    337267104  A 435190508816454 KADD  CABDCCCDBDACB CBBCCCCCCCCCCBDCBCBBBACCCC                                                                           
+MWHWMMWD    KAZIMOVF      QUR BAN    343975304  A 420050514408527 KDDCAADBCBCDDDCBDABBDCCDBBDBDCCBDBBDBBABCCABBB                                    E                                      
+MWHWMMWD    WSWDZADW      VAQiF      343914804  A 420100503389095 KDDDABDCAACBDCBDAABBDCCDBCCBADABAADADBABCABCAD                                                                           
+TEYYUB      ASLANOVFF     ORXAN      366990804  A 420030509897860 KDDCAAABDACADCDAAACCBBACCDBBBDADBBABAACABCDCDD                                                                           
+ZEYNWB      iMANOVA       NAHiD      343189504A A 420100503562812 QDCDAADCDBBAABBDAABAADCABDBBCDABDDCCBADDBCDBDA                                                                           
+LEYLL       KWRWMOVA      ELDWNiZ    340244604  A 420080503560*33 QDDCAACCABCBBDBA ABCADCDCDAABBCBBDBCBCAADABCAD                                    E                                      
+MWLWK       AgAsANLIF     EMiN       341231104  A 42008           QDDCAACBABCBDDBADABDACBDCCDABD BAABCDCBDDABCAD                                                                           
+YUSiF       MWHWRRWMOV    ÇiNGiZ     342133304A A 42010           KDDCADCBBBCBDCCADA BDCCDADBCDBCBBDDB BABCCB DB                                                                           
+MÜZWFFWR    HÜSEYNOV      RUSLAN     336030704  A 425030702262246 KDDCAADBABCBDDBCBABBCCCABDDBDDBBDBCACCAABCADDB                                                                           
+QURBAN      WSKWROVF      MEHMAN     342675404  A 420100503820756 KDCCABDBCBCBBDDCBABBCCDDBADABDABABCAABDDDCAADD                                                                           
+ÜMiD        MUSAZADW      AQiL       351164504  A 42006           KDDCAAACABCBDDBDDABCCCDCBADBADBBCADACBCACADCDB                                                                           
+WLiRZA      NWZWRLiG      CAViD      344111604  A 420050506251033 KDDCCABCACCBDCBCBABBDCBDBBCBDDABABDADCABDAB                                                                              
+AgARAFAEL   iBADZADW      RUSLAN     337317204  A 420040508327515 KDDCAAACBDCBDBBDAAB ACADB DBB BB B       C C B                                                                           
+RÜBABW      WLWKBWROVA    ELXAN      331086804A A 445080505893011 QD CAADBAACADCBC ABB CDABADC D BDB CDBADBBDAAA                                                                           
+NiHAD       KAZIMZADW     RWMZi      354596504  A 44535           KDACADDACABCADDDBABAA ABCDCADCADCAABDCBDCCBADB                                                                           
+iSMAYIL     HÜSEYNOV      WLi        355085304  A 4453505087 2631 KBDCAADCCBCBDCACAABADDBDBDBADDCBABBDCABBC C  B                                                                           
+AYXAN       NiFTULLAYEV   TEYMUR     354973604  A 445350503383444 KBDAAAACBAACDD  DDAACDCDCDCCBAABBABCDBCBAB                                                                               
+LEYLA       KAZIMLI       iQBAL      354691104  A 44535           QDDDADDCCBCBDACDAABB D  CDCAB  B   DB A  A   A                                                                 A         
+MWHWMMWD    NiFTULLAYEV   DAXIL      354988304  A 445350503049222 KBDCADDBCBCADCACBADCDCADBDCCBACBDBBACBCACBACAC                                                                           
+WLi         TAgIZADW      AZAD       362336404Ç A 440010505544465 KD CD DBABCBDA C ABB CADCBBBB ABDBBCB  BC  ADB                                                                           
+UgUR        QULiYEV       SAMiD      332338404  A 44559           KDD AA B BBDDCAC ABBBCDBBDBA  CDDAAB B BC   B                                   * B                                      
+BÜNYAD      MWMMWDZADW    ELSWVWR    345754904  A 44535           KDBBAADC  AAAACABDBBBDADADAA  ACCBCCCCBBCABBCC                                                                           
+SWBUHi      sÜKÜRLÜ       LOgMAN     355365904  A 445350513564444 KDDABCABBBADADCCBCBBBDABCCCAACBBDBBCCBACCBBCDB                                                                B          
+WSMANUR     NURULLAYEVA   PWRViZ     331372104  A 445110516499529 QDDCACDCBACBDABDAAACDCDDBDCBBAACABBCDCABCACBAC  A                                                           C            
+MEHSURW     EYVAZOVA      iBRAHiM    363727304  A 445350508328071 QBCBAAACBABDDBAAABCACDDADBBCAADADAACDAADCCACBC                                                                           
+SWBiNW      TALIBOVA      EMiN       355313304C A 445350516274455 QDDCAABBDBCBDDDADABBDCACBDDAADBBABDBA ABDCB                                                                              
+YUSiF       QARDAsOV      ELsAD      337941004C A 44535           KDDCAACBBBBCDACAAADAABADB BCDBCCBADCC   DABCA                                    EEEE EE                                 
+ELMAN       MWMMWDLi      RAMiN      327596404AAAA12511           KDDCAACCCBCBDDACBABB BC  CAABCBB A C   C CB D                                                                            
+YUSiF       ELDAROgLU     PWRViN     354535904A A 44535           KDBBAABBAACBCABBACBBBAACAABAAAABDBCADCCBDABCAA   A                                                          E            
+ÜMÜD        ABDiNOV       SWBUHi     354662404A A 44535           KDDCAAC*CBCACCDABA BDAAD C AAABDDBBBDBCBCBDBDA                                                             E             
+CAViDAN     HAMLETLi      CWLAL      332650704C A 445350502344442 KDCBAADBBCCBDCCDABDDBAA  CAAAAA  A       AAAA                                                                            
+YAgMUR      ASLANOVA      ABBASWLi   331353104C A 44535           QDABAADCCBDBDDBCBBCABCBACABCBDACBDCCBBCCCAABAB                                                                           
+CAN         QWFWRLi       SEYMUR     354566504A A 44535           KDACAAACDBCBAADCAABDAABDCADCDBCBDCDABABACBCADA                                                                           
+ÜMiD        RUFULLAYEV    ELsWN      355273304C AA4453577063      KDA AA CABC BDADCBCBBADCADACCBBAA BDCBACAAABBD                                                                           
+GÜLAY       QASIMOVA      SWFA       367183904A AA44501           QDDDAAAADACDDDDCCCBC DBB  DB  CCAA C          B                                                                          
+NURAY       BÜNYATLI      ELViN      355399104C A 44535           QDDAAADBCAACBBCDAABBCCDDBABAABCCABBDCCABDBAADA                                                                           
+NWZRiN      sAMIYEVA      TEYMUR     355456104C A 44535      33 0 QDDCAABBCBCBBACCBADDBCADAABCAACDABAAABDBDABADD  B             B                  DD                  C      D     A      
+ÜMÜD        QULiYEV       RÜFWT      332296304C A 445020773130418 KBCDADBACACADBBDABDBCBCABCDBCACADABBBCACCCAABC                                                                           
+AMiN        MWMMWDOV      RAMAL      333324904B A 44535051876095  KDACBCCBBABDAACDBABBDBABBCAABBAABBCDCBBCACBCCC                                                                           
+ZWHRA       KWRiMLi       AFWDDiN    331048304  A 445150502776637 QAADA DCCCCBDABADDBBCAADAAABA CBDAABDABDBAAAAD                                                                           
+ZAMAN       ASLANOV       ÜLVÜ       331349204  A 44578           KDCCACACDABAABBDAADABDAABDCCA AC BAC DCCBABCAD                                                                           
+NiHAD       SALAYEV       NiYAMWDDiN 367827704B A 445350508334343 KBBAADDCDCAADD AADDDC ADD CB  ADDD BA CDD DAD                                                                            
+YUSiF       AKiFZADW      RAMiN      332077504B A 445010503457125 KDABACDBACBCAABADAABBBADDCCCCDABACBCCBCCDABADD                                                                           
+MURAD       WHMWDOV       iLQAR      332670904B A 445350518011737 KDBCAAABCBCDBDBDAAB*BDDDBD ABBBBABB BBCDCCAAAC                                                                           
+LWMAN       TAgIYEVA      XWZWR      337311004  A 445350516440334 QDDDAACBADBCDBAABBADCDAACABAACCCCACBAABBCABCDA                                                                           
+AYLiN       HÜSEYiNOVA    RWsAD      355172904  A 44535           QDAAAA CC CCDACDBCBCAADB AABBBABBDB  DCBDAACBA                                                                           
+SiRAC       ZEYNALLI      RACI       354546304  A 44535           KDDCAAABCACDDCCAAABDADCCBDCBABDBABCECBAACBCDAB                                                                           
+HÜSEYN      MWMMWDLi      MWRHWMWT   355437904  A 4453505083499   KDDCAACCBBCBDDADBABABCADBADCDACBDDDCDBADDCABBA                                                                           
+SiTARW      WLiYEVA       YUSiF      362081004  A 44535           QCCACCCCCCBCAABDDADBCDACBA AA  ADBCABCADDC  BB                                                                           
+FWRiD       sAHGWLDiYEV   FEYZULLA   342322104  A 44535           KDDCABDCABCADCDAAABBDBBDBCBBA ACCB CADBACAAAAB                                                              D C      E   
+ZWHRA       BAYRAMOVA     NURsAD     354561904  A 44535           QDDCAADBABCBDCBCDABBBC DDDDBDDBBCBB AD DCCDADB                                                                           
+LEYLA       RWFiYEVA      TOgRUL     331802104  A 445350507047017 QDDCAABCDBCB DACCABDBCDD DDBDDABABDCBBDD                                                                    D            
+WKBWR       BAgIsOV       VÜQAR      331808104  A 445350505902385 KDDAAACCABCBDABABBBBADADBDDB DABAD BCA  CABBDB                                                                           
+HÜSEYN      LEYSANLI      RAMiD      354551404  A 445350507840660 KDDCAADCDACCDAACCAACCAADBCCBCDCBACBBBDCABAACAC                                  D*                   E                   
+SWiD        ALIsOVÖ       SAMiR      355161704  A 44535           KDDCAADBABCBDBDDAABBDC DBDDBABBDDBDDDC  CCD DD                                                                           
+ZWHRA       HÜSEYNLi      ZAUR       354887804  A 445350552026298 QDDCABABACCBDDCCCABCADD AD B DACABD DAAA CBCC                                             D                              
+NURAY       MURADLI       ASiM       354617704A A 445350503359917 QDDCAAABCBABBDACAADBACDDACDACBCBDBCABBBADA DDB                                                                           
+ZEYNWB      SOLTANOVA     AgA        354637304A A 445350503339895 QDDCAADCABDBDAAD ABBDCDDBCC  D BAADBA DB C  A                                                                            
+QUMRAL      KWRiMOVA      EMiN       331741204C A 445350514864888 QDDCAADCAACCBCBDAABCACAABDCC DBDAA CB AAAAAACC                                                                           
+iSA         MUSAYEV       AZWR       342418604A AA445350505333733 KDDCBAABAACBDAACDADCACADCDBADDBBABCBACBCACDDDC                                                                           
+SWFWRWLi    CAHANGiROV    AMiN       354674204A A 445350504176118 KDACADACBCABDCACDBDCABADCCABDABBDCABCABCBABCAC                                                                           
+SWBiYYW     PiRiZADW      MEHDi      355417704C A 44535           QBAAACCCDCACDCADCABCDACBACACCAACABDDBACDCBABAC                                                                           
+WLi         SEYFULLAYEV   QADiR      354755904A A 445350507165428 KBCCAACCDACADDACAADCCBABBDDCADACDBADADBABCCBDC                                                                           
+iSLAM       YUNUSOV       ANAR       331728904C A 445350506777610 KDDCAADCCBCBBC ADABBDCDDBDCBDDCBABDDCDAA CDADB                                                                           
+UgUR        WSWDOV        FWRiD      363232404A A 445350552285432 KDAAABCCBDABDADCABDCACADBDABABABDBDDCCADCABCDA                                                                           
+HWZRWT      iBiYEV        ASiMAN     355330804C A 4453500558*     KDABA DBBBA DDDDAAABD*AB ACCA A AA   A ADBCBA C                                                                          
+YUSiF       AgAZADW       sAHLAR     355383004C A 44535           KDABAA BBADACDCABBCBABACABCCD CADABB CBADA CDB                                                                           
+FiDAN       KWRiMLi       AFWDDiN    356498404  A 44515           QACACCBCDCADBACDDABCBBBBBCBDBCBCBCBCDAABBCB                                                                              
+AYHAN       SWMWDLi       NURLAN     331350404B A 44535603 535    KABDCCDCADCBDCDABBBBDBBC AA CBCCBAAACBBBBAAAAA                                                            D*E EEEE   A  A
+NiHAD       QASIMLI       RAMiN      360948704  A 44501      66   KDABACBADABDBAACAADBCDBAAACADCDBABDACBADDBDAAB                                                                           
+RWsiD       WSWDOV        WLiCAVAD   363184104Ç A 440010503966161 KDAAAABCDBCBBAACAADABCACCBCCBCACAAADCBBCBAACAA                                                                           
+GULAY       WSGWROVA      CWLAL      331625304A A 44584           QDACAACCA CBDCBCAADBBDDAC DBBCCBBACCBCBBDBCBDC                                                                           
+NURANW      HÜSEYiINOV    AYAZ       355061604B A 44535           QCCBADBCCDDCCBABAACCBABABBABCCCBDDABBCBBDBCBDC                                                                           
+MWDiNW      WKBWROVA      AFTANDiL   332634904A A 44005           QDCAACBBDACABACDBBBDDAADCCDAA CBBA C  ABDBAAAA                                                                           
+ZWHRA       WSWDOVA       WLiCAVAD   362346404Ç A 440010503966161 QDAAACCBBACAADBDACBCCAADCADABCDCDCDDCDBDCABADC                                                                           
+MiRBAYRAM   AAASZADW      RAUF       336316604A A 445540516443233 KDDCAAABDBBBBDAAAAABDDADADCACAABDBDAADCDDDDAAB                                                                           
+SAMiN       NWSiRLi       ZAUR       331297304A A 445840504484546 KDABADCBADCBBDBDDCDACACCCADCACAAADCDDCBBCACAAC                            B  *E                               ABBCDE     
+YUSiF       iSGWNDWROV    RAMiNR     333559904  A 440050777444482 KDAABCCCACBACDBDCBBB*CBABABCBAAACDBCABCABDBACA                           A*B  E                      DDDD   CCBC         
+sAHiN       MWMMWDOVC     ELsAT      325566904  A 445350515080012 KDADAABCAACBABCAABDAABCDCDDCCBACBDCABDBDDADBDA                                                                           
+FATiMW      PiRiZADW      WDALWT     355132504  A 445350519595500 QDDCABDBABCADABCAABDCCABBDCCDDADDBADCBCDDDBABA                                                                           
+HÜSEYN      WLWFSWRLi     YADULLA    355115404  A 445350504679940 KADCAADBABCBDCACDABBAB CB DADDCBABBDA CDDBD DB                                                                           
+MWDiNW      HÜSEYNZADW    TOHiD      333163904A A 440030505189849 QD BAADC BCADD A ABCDCDDBADBDDBBCBDBCDA CA  A                                                                            
+CAMAL       HEYDWRLi      BWHRUZ     332641704  A 44005           KDDAA BCDABADD CAABCD DDBDC DBCC B A  DDDCB D                                                             E   E          
+ZWRNisAN    HEYDWRLi      BWHRUZ     332643204  A 44005           QDBDABACDCBDACACBABCACABBDDCDBABDCA BBABCABACC                                                                           
+GÜLNAR      WZiZBWYLi     ORXAN      354730404  A 445350519777878 QDDDAACCAACADBAADCBCDAACADCBCBBCCBBCDCACDDCDAC                                                                           
+AYSU        RZAYEVA       SEYMUR     354649504  A 445350516414240 QADBACBCABCDAABCABDCABAABCAAC ADCCBCDDBABABCCA                                                                           
+RÜBABW      AgAYEVA       ELViN      331325504  A 445780506711424 QCAAACBCADBCCDBCBCDCDDDDBAABADBCACBCABCCCCCCCA                                                                           
+ELNURW      CABBAROVA     ELMAR      364509104  A 445350503561931 QDAAABCCDCADCD CBBACABDCBCAAABABDBBABABACBCABB                                                                           
+MUSTAFA     KWRiM         FWRASWT    355203104  A 44535       0   KBACBBADAAADAAA DBD  A  ACDCABBADB CBAABDBCBBB                                                                           
+SÜBHAN      TAgIYEV       XALIQ      335643304  A 445540519481377 KBDCBBABCDAADBCDCABDADBCBCDCBBAACCACCABBDBCBBB                                                                           
+FATiMW      BAYRAMLI      ORUC       330560304  A      0552112120 QDDDAABBDACBDCDCAABBACDDBADADDABA DDABCDDCDD A                                                                           
+ADWM        WHMWDLi       TWRLAN     332746004  A                 QDDCABDBCCCCDABAAABB CCDBDBADDCBCBDABCAAC BCB                                                                            
+MWLWK       iMANOVA       ELBRUS     327878904  A      0556010482 QDDCAADBCBCDDDBCDABCACCDBBAADDACBB DBCCCB BAD                                                                            
+MEHRiBAN    HACIZADW      ELMAN      327869204  A                 QDDCAADBABCBDDBCBABBDCCDBBBBDDCB B  B DCCC  D                                                                            
+SADiQ       MiRZWQULiZADW EMiN       329700904  A      0504589580 KDDCAACCCABBDCCCAABADDCDBABBCDBCCBCDCDACDABDCB                                                                           
+YUNUS       WZiZOV        iBRAHiM    338565204  A                 KCDCACDBABCBDAACCABCDCCBABBDBDCAABACCBBADADACA                                                                           
+NiHAD       iXTiYAROV     MAiS       354215704 AA      0552282122 KDDCAADBDBCADDADDABBDCCDBADBDDDBBBCDCCADCCD DD                                                                           
+GÜLAY       iSMiXANLI     VAZiL      336387204  A      0515082652 QDDCAADCABBCDDBABABBDCDCBADBDDCBDBBAA ABCCA AB                                                                           
+HÜSEYN      AgARZAYEV     SAMiR      349276604A AR     0516233512 KDDCAACCCBCBDDBCBABBDCCCBDDCDDCBAB  BAACCCDADA                                                                           
+YUSiF       MEHDiZADW     sÖHRWT     314012004  A      0502824477 KDBCADACAADBBBABABDAADBCBCDBDBABCBDCDBBADDBDBB                                                                           
+MWRYWM      CABBARLI      WFQAN      354039404  A                 QDDCAADBBACBDDAADABBACCDB ABDBBBD CDBBDCDAAAAD                                                                           
+SADiQ       ABDULLAYEV    RAFiQ      326731304  A      0706765523 KDDCAADBDACBBDCDDABDDCBDBDDBDDBBCBDDACCDCCDADB                                                                           
+KAMAL       SÜLEYMANLI    CEYHUN     325770804  A                 KDDCAADCAACBDDBCDABBACCCBDCBDDBCCADDDCACBCDCCC                                                                           
+NURHAN      RWSULZADW     SWNAN      325755004  R                 KDBBCBCDBBBC CBDAADBACDDBACBBDDBDBDADAADACCCAB                                                                           
+BWYAZiD     QURBAN        RWsAD      349310904  A                 KDDCAADBABCBD CCDABBDCCCBCBADDCBCB BACC CCD D                                                                       C    
+ÖMWR        HÜSEYNOV      VÜSAL      342508504  A                 KDDCAAABAACBADACAABCDCDDBDDCDDCBBBCACDDACADCDA                                                                           
+TUNAR       WSWDLi        ANAR       303707504  A                 KDDCAABCCBCBDCDDDABCACADBBBCDD BCBDBDBACCADADB                                                                           
+iBRAHiM     RWsiDLi       ZAKiR      327921104  A                 KDDCAADAAACDDDBCDABBDCCCBBBBDDCBCBABBCDCCCDDDD                                                                           
+FiDAN       BAgIRZADW     AZWR       341596804  R                 QDBBCBCDBBDCDCDDDABDBC ABDBBDDCBCB BB D CCA                                                                              
+XWDiCW      MWMMWDLi      RWsAD      327692704  A                 QDDCAADBABCADABCDABBDCDDCBB DDBB BBB CCBBCD DB                                                                           
+ZWHRA       WLiYEVA       YWHYA      325949204 AA                 QDDDAACCCCCCACCAAABCDCCCCDDBADCCABBBDBADDCBCDA                                                                           
+AYLiN       ABDULLAYEVA   ELNUR      365809104  A      0518266295 QDDCAADBCBCBDDDBDABBDCABBBDBDD BBBDCDCBBDDDABB                                                                           
+KWNAN       BABAYEV       FiZULi     350395504  A      0556580081 KABDACCBBDDCBACABABBBCADBBBCBACDCAACACACADBCBA                                                                           
+FWRMAN      ALLAHVERDiYEV RAMiL      325809804  A                 KDDCAADCBACBDD CBABCBCABBDDA  BC AD   AC BB D                                                                            
+WLi         HÜSEYNLi      ELMAN      349421804  A                 KDDCAA BCACACDBCAABBBCBDBDBADDDBABCDDBCABACAAC                                                                           
+NWZRiN      HACIZADW      ELNUR      327532104  A                 QDDCAADCCACCDDDAAADBACDBBDCADDBBCADDCBADDAB BD                                                                           
+SALEH       ALIZADW       NATiQ      329955404  A                 KDDCAADBABDBDDBCDABBCCCDBDBADDABCBDBDCDDC D DC                                E E                                        
+XATUN       BABAZADW      ELViN      350055904  A                 QDDCAADCAACADBCCCACCDC CA BA DCBCBDACCABDDCABD                                                                           
+XWDiCW      ÖMWROVA       ELViN      329714404 AA      0557862122 QCDCABDBD BABCBAAABACC BACCCB BBADDBB CDDA BAC                                                                           
+ZWHRA       ABDULZADW     FUAD       348855604  A      0503517221 QDDCAAABBBCBBDBCDABBBCDDC BBDDCBCDC BBADD BAD                                                                            
+NWRGiZ      iSMAYILOVA    ÇiNGiZ     354153604  A      0707396082 QDDCAADBCCCBBDCCBABBDCDDBDDBD DDABDD AB DBDCDC                                                                           
+YAQUB       HWSWNLi       SAMiR      327537504  A      0559280848 KDBCABDCDBCBC CCAABBAC A  DB ACDCDB CCB ADCB B                                                                           
+ÖMÜR        QiYASLI       VÜSAL      360376704  A      0706060400 KDDCDCDBAACBDDBCDABCDCCCBDBADDCBCBACBBAC                                                                                 
+KAMAL       PAsAZADW      TAMERLAN   329728904  A      0702186560 KDDBAAABCDDBDABCAABBDCDDBDDBDDBBABD D ABCBBADB                                                                           
+iSA         KWRiMLi       VUQAR      338613204  A      0706251018 KDDCAADBCBCBDCBCD BBD CDBADBD BDDBD AB BD D DD                                                                           
+iPWK        SOLTANZADW    MAHiR      325959004  A      0997720708 QDDCACDBABDADBBABABBBCDDBDDBDDBBDBD CDDDD   AB                                                                           
+DUYgU       MWMMWDLi      CEYHUN     328833504  A      0557344405 QDDCAADBAACBDDDCDABCBCCDBBBCDDC  BDBADDC AB DD                                                                           
+AYDAN       RZAYEVA       RAMiL      327931204  A                 QDDCAADBABCBDD CBAB  CADBBDADD B BD C C   BC B                                                                           
+YUNiS       MWSiMLi       ELGÜN      330072204  A      0502922908 KDDCAADBCBC DDCCBABB CCDBDBBDDCBCBD BCCCB BDD                                                                            
+BUSAT       BABAZADW      KAMiL      325999804  A      0703335506 KADCAADBDBCADBDAAABCBCAABDBACDADCBCACDABBDD DC                                                                           
+MEHRiBAN    QULiYEVA      XALiD      362017504  A      0519514335 QDDCAADBAACBDDBCDABBDCCDBBBBDDCBCBBABACACCCCDD                                                       A      D            
+VAHiD       ABBASZADW     SÖHRAB     330402404  A      0515768482 KDDCAADBACCBDBCBABBDCCDBCBADDCBBBB BBCACCCDADB                                                                           
+DWNiZ       HWSWNLi       GÜNDÜZ     333179204  A                 QDDCAADBCBCAD DB ABDDCBDBABBDDCBBBDBAA    B D                                                                            
+AYDIN       WSWDLi        WZiZ       326064404  A                 KDDCAAABABCABDDBDABBDCCCBABBDDCBBBCAACAACCDC D                                                                           
+FATiMW      HWSSNZADW     VASiF      327539204  A                 QDDCAADAAACBDDCCBAAADC DBDDBDDABABDABDCDBCDCDD                                                                           
+SADiQ       AgABABAZADW   MiRZW      329949604AAA                 KDDCAADBCABDDDDCDABBCCCCBDBADDCDDBCDCCCCCABCD                                                                            
+ZEYNWB      ABDULZADW     ELsAD      355938104  A                 QDDCAADCABCBBDBCBABCCCADBDDBDD BBBD ACACCDDCD                                                                            
+ÜLVi        QULiYEV       SWRVWR     328835904  A                 KDDCAADCABBADDACDABCBC BBDAB D BBBD A                                                                                    
+AYLiN       WLiMiRZWZADW  MÜRsÜD     330298204  A                 QBDCAADCABD DDADBABBBCDDBDDCADBBDBCBAC C  A  B                                                                           
+MEHMET      WBiLOV        SWBUHi     350012604  A      0513944414 KDDAAAAC DCBAAB D*BADC DBDDA DBBBBD AACADADC A                                                                  D        
+FWRiD       HWBiBLi       MiRZWAgA   342505604  A      0552026131 KDDCAADAABCDDDDCDABCDCDABADBDDCBCBDDCBDDCBBDDB                                                                           
+iBRAHiM     NWZWRLi       EMiN       325784504  A      0559334567 KDACAADCCBCDDCCDCACAADCDC DB BCBBCCBBBCBDADCAC                                                                           
+NURLAN      ABDURWHiMOV   ELViN      360184304  A      0775712951 KDDCAAC CADDDDCABABC CCBB DB DDBA   DBDCB   BD                                                                           
+NWZRiN      ABBASLI       ANAR       357419204  A      0506620566 QDDCAADBACCBDDBCDABCCCACBBBBDDCBCB BBCCCBCDDDD                                                                           
+CAMAL       WLWSKWROV     ZiYADDiN   330048904  A      0555049676 KDDCAADBABCBDDCABABBBCCDBCB DDCBCBCBBCDDACD DD                                                                           
+AMAL        WLiMiRZWZADW  MÜRsÜD     330049904  A                 KDDCAADBABCBDDBCDABBDCC BCDB DDBCBDDBCDCCCC DC                                                                           
+NWRMiN      HÜSEYNZADW    CAViD      330262504  A                 KDCCA ABC BBDCABABBBBCDDCDDB  CCAB  BDBDDD CAB                                                                           
+AZAY        MWMMWLi       AZWR       357969004  A                 KDDCAACBADCADDDABABCDBCACDBB  ABCBDBACAABADCAD                                                                           
+AYLiN       TAgIZADW      ASiF       354316004  A                 QDDCAAACACCBDDBDDABCDC DBADBDDBBAB BA BD  BADD                                                                           
+DAVUD       WHMWDOV       XWYAL      328666304  A      0552533636 KDDCAADCAACCBDBADABBDCCCBDDADDCBCBDADCCDDDDDDD                                                                           
+AYDAN       WLiYEVA       AYXAN      349907104  A                 QDDCAADBABCBDDACDABC C DBDDA DBBCB BAAACCABD                                                                             
+AYLiN       AYATOVA       ANAR       332745404  A                 QDDCAADBCBBADDCDBABCBCAABDCBDDDDBBDAABACDCCBDB                                                                           
+MÜHWMMWD    AgAYEV        ARiF       350044404  A                 KDDDAACBABCBDCADBABCDCCDBDCBDDBBDBBBDABDBCDBBB                                                                           
+AYLiN       HÜSEYNLi      iLQAR      365013104  A                 QDDCAADCAACBDD DBABCDCCCBDBBCDCBABDDBDC D  DD                                                                            
+FATEH       HWSNLi        ASWF       350137004  A                 KDDCAADBBBCBDDBDDABCDCCDBDBBDDDBCACDACCDBCDBAA                                                                           
+NÜBAR       BAXIsLI       PWRViZ     327623604  A      0702373788 QDDCAADCABCCDDB DAB DCCDBABBDDCBCB BDBABCCDDDB                                                                           
+TUNCAY      VWLiZADW      SWXAVWT    352360004  A                 KDDCAADCCBCBD   DABBDCCDBCBBDDCBCB BBCCBC                                                                                
+WMiNW       iBRAHiMLi     RAMiL      327043104  A                 QDDCAA BAACBDAACAABBDCBDBDDBBCABBBDBACABDCBCDD                                                                           
+ZWHRA       XIDIROVA      TOgRUL     328846104A A                 QDDCAADBACCBDDCCDABCBCCDCABBDDDBCCC                          E D                                                         
+DAMLA       QASIMLI       RWVAN      355821404A AR     558682892  QDDCABDBACBADDBDDABBACBDBDBBADDBCDDABDDDBAABDA                                                                           
+iLHAM       QOCAYEV       ELViN      328852204  A                 KDDCABDBCBBABCDADABCACDDBDDBDDCBBA ABCA CCABBB                                                                           
+iBRAHiM     AgAKisiYEV    iLHAM      325734504  A      0503358313 KDCCAADBCBCBDDDCDABBDCCDBDDBCDBBCB AAD BBCDCDB                                                                           
+NÖVRWSTW    KAZIMLI       CWLAL      333209204  A                 QDBCA DBCCCBDC C ABCBCADABCCCDDBDB CDCCB BCCBA                                                                           
+NiCAT       NOVRUZLU      ÇiNGiZ     325984604  A      0506325758 KDDCAADCCBBBDDBCDABC CCDB DBDDCBCB  B AC  D D                                                                            
+HÜSEYN      MURADXANLI    RAHiM      327352204A A      705769636  KDDCBBDCCBCBDCACCACCBCADBDBAAAABBBBDCADADADACB                                                                           
+XWDiCW      MWHWRRWMLi    TURAL      355835104  AA                QDDCAADBABCBDDACDABCDCCDB BBDDCBCBBBBC C CC DB                                                                           
+HWMiDW      MWCiDLi       MWHWMMWD   325847804A AA     0514606527 QDDCAADBADCBDDCABAB DCCDABBBDDCBCB BACCCCCD A                                                                            
+ÖMWR        YUSiBOV       SWRVWR     326942004  A                 KDDCAADCABCADDBCDABBDCCDBBBBDDCBCBCBBCDCCCD DD                                                                           
+AYsWN       MUSAZADW      ZAMiQ      349399004  A      0504999747 QDDDAADBABCBDDBCAABBDCCDBBBBDDCCBBDACCADBCBDDD                                                                           
+ÜMiD        QWRiBL        ELsWN      326686404  A      0517501739 KDDCAADBABCDDBBCDABBBCCDBDCBDDDBDBC CAACCDB D                                                                            
+FWRMAN      WsRWFLi       WsRWF      325949604  A                 KDDCAADBABCCDDBCBABCB CAB BBDCBDA*CBA  AD   DB                                                                           
+MWHWMMWD    BABAYEV       HWBiB      326550504AAA                 KDDBAADCDABCDDAACABBBC DADBBCDABBDDCCADBBBCDDB                                                                           
+WLi         BABAZADW      SAMiR      325748204B A      0503791820 KDDBAAACDBCDD CCBABBACDDBDBB  BB B      CCAADB                                                                           
+DÜNYAMiN    MWMMWDLi      QAFQAZ     347069504  A      0515605373 KDDCABABBACBCADCBABBDCCCADDCDDDBBBDBCCCCCEBCDC                                                                           
+sAHSUVAR    HACIYEV       SWNAN      326225804  A      0556719484 KDACAAABBBCCDDACBABCDCBDBDDCDDCBDBBBBCACCCDDDD                                                                           
+AYAN        RWCWBLI       NAMiQ      327770004  A                 QDDCAADCABBBDDCCAABBBCCDBDDBDDABCBDDB ACDBB DD                                                                           
+ELsWN       MUSAZADW      ZAMiQ      349401904  A      0504999747 KDDCAADCCBABCDBAAABBDCAABBBBDDADBBDACCADACADDD                                                                           
+TUNCAY      KAZIMLI       FEHRUZ     351595104  A      0558999927 KDDCAADBABCBDDAADABCDCBDBADABDCBCBBAAAACBADBDC                                                                           
+XUMAR       NAMALZI       KAMRAN     328105804  A      0558491205 QDDCAADBCBCBBDADDABBDCCDABBBDDCBCB BACDBCC  DD                                                                           
+KÖNÜL       WLMWMMWDOVA   SWNAN      356870004  A      0559472286 QDDCAD CCACAACCCADABCCBCBABCBABCDADB  ACBA CDB                                                                           
+YUSiF       HACIZ         VÜSAL      348565304  A                 KDDCAABBABCBDDBCBABBDCDDBBB DDCBCBCBBCDDDCDBAD                                                                           
+SABiR       QULiYEV       iSMAYIL    328835404  A                 KDDCDADBACCADDBBDABDACCCBDDACDBBCBDACBACBCBCDC                                                                           
+RAMAL       MWHWRRWMLi    RWsAD      326725404  A      0552005950 KADCAADBC CCDDAACABAAC AB BBBBCBBB D B  BBBCBB                                                                           
+NURGÜL      QAFARLI       ANAR       351313304  A      0505286006 QDDCAADCABCADDBCBABBBCCAADBADDBDBBDABCACDCBCDD                                                                           
+GÜLÇÖHRW    MWMMWDLi      ATAs       356506604  A                 QDDCAADCAACBDDBCDABB CCCBBBADDABCBC ACAC CDA B                                                                           
+NWRGiZ      KWRiMLi       ELÇiN      350233004  A      0552880220 QDDCAAABCDCCDCBCAABBDCAABBDCDDDBABCDA BDDADBDB                                                                           
+GÜLAY       WHMWDLi       RWsAD      341601804A A                 QDDCAADCCDACDCAADABCAADDBAAABAABDB DDABBBABCAB                                                                           
+NiGAR       WSWDULLAYEVA  RÖVsWN     326740104  A      0557305883 QDDCAADCABCABD DDABCD CDADCCDD BCB BDBC BCB DD                                                                           
+NiGAR       TAgIZADW      HWSWN      352324004  A                 QDDCAADCAACBDDBCBABBDCCDBABBDDABCBCAB B D B D                                                                            
+LWMAN       HACIYEVA      BWXTiYAR   329251104  A      0508989138 QDDCAADBCBCBDDDCDABBDCCDBBBBDDCBBBDAA DDC                                                                                
+ELNAR       ABBASOV       VÜSAL      326736004  A      0553362484 KDDCAADCCCDDDCCABCBBDCCDBDCBDDBBCBCADCCDBADDDB                                                                           
+YUSiF       MAHMUDOV      BAYRAM     327407604  AA                K                                                   E                                                                    
+iNCi        XANBABAYEVA   RAMiN      349473104  A                 QDDCAADCCBCBDDCDAADBACADCADBCDBBABDAADACDABADD                                                                           
+HiKMWT      WHMWDZADW     RAUF       330787804  A                 KDDCAA BAACDDC AAABC CDDBDCB DBBCBD CCCBDB CC                                                                            
+NWZRiN      NWCWFZADW     RWsAD      362055704  A                 QDDCADBBD CCDD DAABBDC DBCDBDDCBBA  A CC  BAD                                                                            
+MWLWK       WZiZLi        QURBAN     327867604  A                 QDDCAADBABCDCDDADABBDCCDBBBBDDCBBBCBBBACCCD  B                                                                           
+FATiMW      SWMWDLi       ASiF       338928004  A                 QBDCAAACAACCDABCBADCBCCD CCCBDADBBDACCBBBABCCD                                                                           
+SÜBHAN      ABBASQULiZADW ELÇiN      326526504  A                 KDDCAADCACCBDDBCBABCCCCDBDBBDDCBCBC D A DCD DD                                                                           
+ZEYNWB      HWSWNLi       CAHANGiR   316223004  A                1QDDCAADCCBCADDDDDABBACCDADDBDDBB*BCDCCAACCCBDC                                                                           
+DUYgU       BEHBUDZADW    GÜNDÜZ     326731704  A                 QDDCAADCA CBDD CDAB ACB BDBBDDCBCBDDB DBC B                                                                              
+iMRAN       ALLAHVERDiYEV RAFiQ      348945204  A                 KDDCAADBAACBDCBCDBBBDCCDBDBBDDCBCBCDBCCDCCD DD                                                                           
+TUNAR       DADAsZADW     AMiL       326527804  A                 KDDCAADCBBCBDBADDABBDCCDBCDBDDBBCBDABCACCCDBDC                                                                           
+AYLiN       MWMMWDLi      NAHiD      328818604  A                 QDDCAAACABCBDDBADABCDCCDBBBBDDCBCBCBB DCC BD                                                                             
+JALW        MWMMWDOVA     ÇiNGiZ     352228004  A      0559561179 QDDCAADBCBCBDAAADABCDCCBBBDBDDABCBCCDBBACABDDA                                                                           
+ESMA        HÜSEYNLi      RÖVsWN     349810904  A      0518424343 QDDCAADCABBBDDBCBABBCCCDBADBDDCBCBCBDCABBABDCD                                                                           
+MWDiNW      NWSiRLi       VAHiD      351266004  A      0503661184 QDDCAABCCADBDCCDDACACCADBCBCDBABDBDCCAABDABCAB                                                                           
+FWRiD       ABBASLI       FiRDOVSi   353921604  A                 KABBDACCDBBDCABDAABADCBDBDBCDDADADDCDBCDABACDBB                                                             E            
+sWMiSTAN    NAMAZOV       ELÇiN      325788904  A      0554018313 KDBCADACDBCCDDBCAABCADADBDBBDDCBABCDBAACCABAAD                                                                           
+ZWHRA       SOLTANLI      RWFAiL     349357804  A      0516676396 QDDCAADCABCADDBDBABBADADADDBDDDBCADBBDAACADCDA                                                                           
+NiGAR       HWSOV         EMiN       325812204  A      0559079099 QDDCAAABABCBDDCBDABDCCBABBCBDDCBDACACBDDDADCAD                                                                           
+NURWDDiN    RWCWBLi       sAHiN      328570904  A      0503102101 KDDCAADBBCCDDDBDBABBDCCDBDBACD BABDABBAB  D AD                                                                           
+AisW        DÜNYAMALIYEVA ELÇiN      356238004  AA     0507606291 QDDCAADCDADBDAACBABCACDDBADBDADCACDCADABDDACAA                                                                           
+NAZLI       sÜKÜRLÜ       NÜSRWT     329734804  A                 QDDAAADCABCBDCDC ABACCDDC DBDDBC BDACDADDCC D                                                                            
+KAMiL       WSWDZADW      RÖVsWN     341957404  A      0559688699 KDDCA DBABCADDCCDABCDCCDBBBBDDCBCB BACACCDDDD                                                                            
+OgUZ        KAZIMSOY      ASiF       356584904  A      0503894360 KDDCAADBCBCBBDDCDABCBCCDBADBDDABBBDABACCCCDBDB                                                                           
+MELiS       MiKAYILOVA    XWYYAMOVNA 355867704  A 50028           QDDCAAACCABBDBBBDABBBCCDBBBBDDCB B CB DCDCD DA                                                                           
+RAMiZ       MWMMWDOV      ANAR       338920904  A 50028           KDDCADDBABCADDDCDABCDCCABDBADDCDBB D ABACBDCCD                                                                           
+MiRYUSiF    FWTTAYEV      ELMiR      349180404C A 50033           KDDCAADBAACADDBCDABBDCCCBDBBDDCBCBDBBCDCCCCDD                                                                            
+BAYRAM      BAYRAMLI      ZAUR       325735104  A                 KDDCAADCACCBDBBADABBDCCCBBBBDDCBBBCBBBCBCCCABD                                                                           
+TUNAR       HWSWNLi       ANAR       349226304  A                 KDDAAADCCACBDDDCBABBDCCDB BBDDCBCBDABCDCBDDBCA                                                                           
+ZWHRA       MANAFOFA      MÜTWLLiM   365712104  A                 QDDCAADCABCBDDACDABBACCDBDD CDDA BDDA ACDC   B                                                                           
+RAZi        HÜSEYNLi      NiYAZi     326012504  A                 KDDCABDCCBCADDBABABBDBDBBDDABCABABBDCAACDBBCAB                                                                           
+XWDiCW      WBDLOVA       sWHRiYAR   327982804  A                 QDACABDCDBCBADDDABBCACADBAABBDABDBADBBBBDAAAAB                                                                           
+FWRHAD      siXWLiZADW    RUSLAN     330157504  AA                KDDCAADCABCBDDBCDABBDCCDBDBBDDCBDBBBBADCCCD D                                                                            
+MURAD       VAHABZADW     RASiM      327275804  A                 KDDCAADCAACBDDCCAABCDCCDBACBDDABDBDBACDABCB D                                                                            
+AYTAC       NURiYEVA      QORXMAZ    325957104A AA     0704392529 QDDCAADCCBCADCDDAADBCCCDBACBDDCBDBDDACCACCDCCA                                                                           
+MWRYWM      MiKAYILLI     RÜFWT      325983604  A                 QDDCAADCABCBD B DABB CCDBDCBDDCB BCDCBCCDC CDA                                                                           
+MWRYWM      BWDWLSOY      KWNAN      349700904  A                 QDDCAADBADCDDDBADABB CCDBBDADDDBCBDDA ACBCBCDB                                                                           
+MWLWK       SADIQOVA      RUSLAN     328837704  A                 QDDCAADBBBCBDDBDBABB DCABDBBDDABCB DBCC DCDBDD                                                                           
+MEHRi       AgAZADW       RAHiM      341996304  A                 QDDCAADBCBCBDD CDABBDCCDBBBBDDBBABCBB D CCD D                                                                            
+ÖMWR        HWSWNOV       ELViN      351275704A A 5051105582503  3KDDCAABCAABBDAACCABBCCCDBADCADADAB CABAACABCAB                                                                           
+FATiMW      MÜTWLLiMOVA   ELÇiN      325964304  A 50018           QDDCAADBCBCDDABABABBACDDBCDBDAABCBDDCDCCABAC D                                                                           
+BANU        MWMMWDLi      iLKiN      356500104C A 50023           QDDCAADBABCDDDBCDABCBC DB B DDCBBBDD  AC C CD                                                                            
+AYLiN       ALIYEVA       TURAL      351694804D A 50039           QDDCAADBDB BDA DBABCDC DBDBBDDAD BD BBBC CD A                                                                            
+iBRAHiM     DOLQ          FWRiD      346008604  A 505110552442275 KDDCAAABDBCDDDCC AACACBDBADCCDDBBADCC CCC BA B                                                                           
+XWDiCW      WHMWDZADW     NURWDDiN   327862804  A 50028           QDDCB DCCBCBDBDC ABCACADBBDADD BAA CDBACDACCD                                                                            
+RAiL        SEYiDOV       EHTiBAR    359319804  A 50011           KDDCAADBCBBABD CDABBDCDDBDD DDBBBB   CADCCB  B                                                                           
+UgUR        QASIMZADW     EMiL       326661004A A 01526           KDDCAADBABCBDCBDDABBDCCABDBCA CBABDAACADCDBADA                                                                           
+NURAY       QURBANLI      VÜQAR      355857004  A 50028           QDDCAADBDBCBDDACDADBDCCDBBCADDCBCBCDCCDCCCBCDC                                                                           
+WYYUB       BABAsOV       SWRVWT     355830304 AA      0702420071 KDDAAADCACCBCCADDABBBCCCBABB DCDAA B BA  A  D                                                                            
+iLKiNH      SWLiMOV       AYDIN      337317504  A      0514358143 KDDDAA CBDD*DA DAABCD  DBCDB DCCABABACAACCAADA                                                                      D    
+XANMiRZW    MWMMWDOV      sAHBAZ     327713204  A                 KDDCAADBCBC DDBCDABBDCCCBADBDDCBCB BBC CC   D                                                                            
+EMiN        HACIZADW      TAHiR      356140904  A                 KDCCADDCCBCCDDACABBBAADDBDDADDBBABCBBCABBABCDB                                                                           
+SWNAN       HAsIMOV       SAMiR      339037404  AA                KDDAAAABABDDBDDABABCDCCDADBCDBCDDDABACAACC   A                                                                           
+RAUL        NAMAZLI       ZAUR       333506404  A      0553031514 KDDCAADBA CBDDBB ABCDC AAD BDDCBBBBBB  A                                                                                 
+iLKiN       FWRHADLI      ELÇiN      327391904  A      0552798181 KDDCAADBABCBDDBCDABCDCCDBDDBDDCBCB  AC CCCDBDB                                                                           
+FiDAN       BABABWYLi     TOgRUL     326095004  A      0559152030 QDDAAADBBACADDDDAABBBCDDBADADDBB A DAC  BC BDD                                                                           
+ELMiR       HÜSEYNLi      iLHAM      327877004  A      0508405680 KDDCAADBABCBDDBCDABBDCCDBDBADDCBCBCBBCDCCCDDDD                                                                           
+SWNAN       ASLANOV       RWsAD      327412704  A                 KDDCAADBACC DDACBDBBDCCBBADADDCBCBCACCABBCDADB                                                                           
+GÜLWR       BAgIRZADW     MWMMWD     356018904  A      0706304999 QDDCAADBCABBDDBCDABCDCCABBBBDDBCDAB C ABDDB DB                                                                           
+CAViD       WHMWDOV       FWRiD      330047804A A      0702862703 KDDCAAACCACADB CDABBDCCCBDBBDDABDBCACCAACCBBBA                                                                           
+HWSWN       SUCALI        FWRiD      328150704  A      0552867550 KDDCAADCDAC  DCCAABCDC DBDDBDD C BD C    C                                                                          E    
+KWNAN       AgAZADW WW    NAMiQ      325850504  A      0773228915 KDDCAADBABCBDCBCDABCDCCDBCDADDCBDBDBABACB DBDD                                                                           
+YUSiF       WSDANLI       VASiF      348503404  A                 KDDCAADBABCADDDADABBDCCDBDBBDDCBCBDDBCCDCBBDDD                                                                           
+AMAL        MWHWRRWMLi    ELsAD      329263604  A      0502471734 KDDCA  CABBBB A BABBDCCCB BBDDCD BD   A  CD DC                                                                           
+MWHWMMWD    RZASOY        TOFiQ      351440104  A                 KDDCAA BAA CCABACABCACDDCBDBDDDBD DCD CC  D D                                                                            
+SWRiYYW     MAYILOVA      RUSLAN     356248204  A                 QDDAAAACDBCADBDDAABC CAAADDBADCCADAAAACB                                                                                 
+MWLWK       WHMWDZADW     KWNAN      327984704  A                 QBCCBBCCDBAAABBCBABBAADDCADCCCAAADDCACBBBDAACC                                                                           
+iBRAHiM     PiRWLiZADW    SWNAN      330129204A A      0708485031 KDDCAADBABCBDCBCDABBDCCDBDBBDDCBBBCBDCDCBCDBDD                                                                           
+iLAYDA      SWFWRLi       ELÇiN      338595804A AA     0552531363 QDDCA CBCACADDCCAABB C DBBDA DBBDBCDABAAC  CDD                                                                           
+KAMAL       MWMMWDOVF     VÜQAR      325777104  A                 KDDCAADBABCBDDBCDABBDCCDBCBBDDCBCB  B  CCDCCDD                                                                           
+ESMiRA      MAHMUDOVA     ELBRUS     349442304  A                 QDDCAABBCAABDAAADABB CADBAD ABBD B      DA   B                                                                           
+LEYLA       WDiLZADW      KAMRAN     327345704  A      3273457    QDDCAADCCBCBDDBADABB C AB CADD B B  A AC    D                                                                            
+SWLiM       CWFWRQULiYEV  AYDIN      325896004  A                 KDDCADDBCBCADDD DBBCDCCDBBDB DADBB CABABDCB BC                                                                           
+FATEH       NÜSRWT        ELÇiN      362077804  A      0556220808 KDDCAADBABCBD BCBABBDCCDBBBBDDCBCB BA C CAD DD                                                                           
+ÜMiD        WZiZLi        sAHMURAD   342503904  A 39              KDDCAADBCBCDDDBCBABCDCCDBDDBDDCBCBDDBAACBCDCDD                                                                           
+MWTiN       RAMAZANOV     ELViN      327767604 AA                 KDDCAADCCBCADDD DABDDCCDBBBBDDCBABD DC ACCDCDD                                                                           
+YUNiS       ALiZADW       PWR VZ     356476604  A      0515808074 KDDCAADBABCBDDDCDABCBCCDCDDBDDDBCB ACC CCCCADB                                                                           
+RAHiLW      MEHRABOVA     DAsIQIN    325884204  A                 QDDCAAABCCCBDDBCBABACC DABDB DCBDA DCBABCABB A                                                                           
+YUSiF       RWHMANOV      FWYYAZ     325938504  A      0552743635 KDDCAADBABCBDDBABABBDCCDBABBDDCBBBD BAABCCD                                                                              
+AYTAC       DAs WMiROVA   RUSLAN     348859304  A      0507878999 QDDCAABCCBCDCDACCABCACCDBDBBDDBBABDCADABDABAAB                                                                           
+ABBAS       NOVRUZOV      TURAL      342407604A A      0552843014 KDDCAADBABCBDDACDABCDCCDBDBADDCBDBDBBCAACCD DC                                                                           
+MWLWK       HACIZADW      ELDWNiZ    328015004  A                 QDDCAABCABCDDCDCAABCBABABDDBADCDABD B DDBAACCB                                                                           
+YUSUF       ORUCLU        QWDiR      325854404A A                 KDDCAADCABCBDDBCBABCDCDDBDDBDDBBDBCAABDABCDADA                                                                           
+RZA         AgAZADW       iLHAM      329952404  A      0556129726 KDCCAADBADCCDDDCAADCCCBCADDADDDBCBDCBCBCCABDBB                                                                           
+DWNiZ       MWMMWDOVA     FAiQ       327916504  A      0553959588 QDDCAADBCCCBDCDCDABCACCBBABBDDBBDBCDBBBCDCBCAD                                                                           
+HÜSEYiN     TANRIVERDiYEV VÜQAR      351236604  A      0505736561 KDDCAAABCBCBDAACBABBDCBDBDBCDDBBBBCBACDCCCBCDA                                                                           
+HÜSEYN      BAgIRZADW     RUSLAN     326456004D A      0703281817 KDDCAADCCACBBDABBABBACCCBDCBDDCBCBDABCAACCDDDA                                                                           
+ÖMWRR       XANALiYEV     ELsWN      353502804  A                 KDD AADBCACDDCBDDABCBCDDBDCADABCCB ABCDBBABAAA                                                                           
+AYXAN       FWRHADOV      AMiL       355303604  A      0506090014 KDDCAADBCBCBDDBDBABBCCABBCBADDCBCB BBBCDCCBBAB                                                        E                  
+YUSiF       CWBRAYILOV    ELsWN      359852104  A      0705252570 KDDCAABCAACBDDCCDABBDCDDBCDABDBBBBBBCBACBDBCDB                                                                           
+SWiD        SADIQLI       AFTANDiL   349309904  AA                KDDCAADCCBCBDDDCDABBDCCCBDBBDDCBBBDDB DBB BDDA                                                                           
+QWMWR       WHMWDLi       WHMWD      328679404  A*     0519113591 QDDCAADBABCBBDBCBABBDCCCBBBBDDABCBD DCDC CDAA                                                                            
+KWNAN       WLiYEV        KAMiL      341602704  AA                KDDCAAABCBCBDCCABAABDCCDBDDADDDBABDBBCAACCDCDB                                                                           
+UgUR        GÜWWsLi       NAMiQ      337314504  AA                KDDCAADBCCCBDCDAAADADCDDCDDBADCBBBDDCCBCBDDCDB                                                                           
+AYLiN       MURADLI       ELMAN      326966804  AA     0552077129 QDDAAABBCACDCDDABABC CBDACDBDDBB  CBA     B D                                                                            
+ÖMWR        OSMANLI       ELViN      325967204  AA                KDDCAADBCDCBDDDAAADBDCCDBBBBDDCDCBCBACADCADADB                                                                           
+GÜLsWN      WSWDLi        ASWF       348307804  AA     0514323939 QDDCAADBABCBDDBADABBBCADBCDCADDBBBDDD ADDCBADD                                                                           
+SEYiDRZA    SEYiDZADW     MWFTUN     328672704  A*     0702887883 KDDCAAACABBBADBCAA*CBCCDB DBADACCBBCAACBDBDADD                                                                           
+WLi         HWBiBLi       ZAUR       348851904  AR                KDDCAADCBBCBDDCCBABBDCCDBDBBDDBDABDACCDDDCDADD                                                                           
+ELGÜN       CÜMsÜDLÜ      ELNUR      348473804  A                 KDDCAADBACCBADDCBABBACCDBADBDDCBDB  C A  ABC B                                                                           
+WLi         HWBiBZADW     ASWF       327509304  A                 KDDCAADBABCBDDCCDABBDC BBCDBDDCBBBBBCCCBC ADBC                                                                           
+ARZU        ZEYNALOVA     ZAUR       327049804 AA      0555575262 QDDCAADBA CBDDDCDABC CDDB DBDDBB BDDA    CB D                                                                            
+WSWD        WHMWDZADW     ELTUN      356156704A A                 KDDCAADCABCBDDBADABBDCCDBDDBDDCB A  BCDACCB D                                                            EEE             
+NURAA       sÜKÜRZADW     GÜNDÜZ     327273604  A                 QDDCAAAB CCAACDADABB CDDBADBACBB BCCCDADACAADA                                                                           
+HÜSEYN      EMiNOV        ÜLVi       348303504 AA      0555095565 KDDCAABCBBCBDDBCDABCDCADBABA DBBCBCACB   DD DD                                                                           
+MURAD       HWBiBOV       CWLiL      354211604  A      0706424715 KBDCACDCCBCBCACACAACACCDADDCCCCDCDCCADA DBDABC                                                                           
+NAZLI       MEHDiZADW     RÜFWT      328830804  A                 QDDCAABB BCAD DDCCBBDBD DAACA  DCA BA ADDADCAC                     D   EE                   B                   *        
+WSMA        iSGWNDWRLi    MWRDALI    354219104  A      0503247515 QDDCAADBAACBBDDADABBACCCBACBDD BAAC CCBAC A DA                                                                           
+SOLMAZ      sWMSiZADW     ARAZ       359740304  A                 QDDAAABBACC DD BCABBDC DBDBBD AD   BBAAACC                                                                               
+EMiN        SEYDWLiYEV    VASiF      325938604  A      0556797169 KDDCAADBD ABBCBCAABBDCCABDDBADCDBBCBDCADBD  DC                                                                           
+AYAN        QASIMZADW     BWHRUZ     325967804  A      0552501144 QDDCAADBABCBDDBCDABBDCCDBA*BDDCCBBC DCAC CBADD                                                                           
+AYAN        WSWDZADW      ELsWN      326732804  A      0556671517 QDDCAADCAACBDDCCAABBACCDB DA DBBBBCAD DA   ADA                                                                           
+CEYHAN      QULiYEV       ANAR       352097504  A                 KDDCAADBCBCBDDBADABBDCCCBDBBDDBBBBCBBCDACADCDC                                                                           
+NWRGiZ      HÜSEYNLi      SAHiB      348970204B A      0556245939 QDDDAADCABBBDCBBDABBDCCDBBBBDDABCBCBBCDC CD DD                                                                           
+AYLiN       OSMANLI       SWXAVWT    351858504C A                 QDDCAADCABCBDD CDABDDCCCADB  DCB BC   BC CBBD                                                                            
+SWiD        XUDiYEV       ELsWN      355872804  A      0553812325 KDDCAADBCBCBDDBDDABCDCCDBBBBDDBACBDDBDCCCAACDA                                                                           
+ADiL        WLiYEV        YAsAR      338971904  A                 KDDCA BCCDCBDAAAC BCA B  ABCCCB DDB AB BDABCDB                                                                           
+AZWR        RZAZADW       ARASLAN    328866804D A      0997358389 KDDCAADBDBCCDDBADABCBCCCBBDBDDCBCB DC DC CB DB                                                                           
+YUSiF       MWMMWDLi      NATiQ      355810604  A      0703065665 KDDCBACABBC DDDABABCDCDDB BBDD BBBD   DCD B DC                                                                           
+AYAN        WLiYEVA       VÜSAL      344384004  A      0516597276 QDDDAADBABCBDD CDABBDCCCBBBBDDABDB BACDDBAD DD                                                                           
+SARA        DADAsZADW     RASiM      327943304  A      0508035184 QDDCAADCABCBDDBDDABB CBBBDDBDDBBBB ABDABCCBADD                                                                           
+AisW        HÜSEYNLi      ASLAN      327873704  A                 QDDCA DBACCADD DDABB C DBDDC CABBA AAAACCAAC                                                                             
+RWSUL       sWRiFOV       SAMiR      348361804  A                 KDDCAADCABCBDDBCBABCDCCDBBBAD*ABCBBADCDCDABABB                                                                           
+AKiF        HACIZADW      ELMWDDiN   328836204  A      0772209230 KDDCAADCCBCBDDACDABBDCCDBB   DBBBB CBB CCCDADD                                                           B  D E          
+AYAN        ZEYNALLI      ELNUR      326122804  A                 QDDCACDCCBCBBDACBABBDCDDBDDADD C BDBBCAAB BCDD                                                                           
+TAHiR       TAgIZADW      YAsAR      328154104A A      0513154555 KDDCAAABDBCABDBCAABBDCBDBDBCDDABBB AABDBCADBDB                                                                           
+MEHRiBAN    sWKWROVA      ELÇiN      331767704  A                 QDDCAADCABCBDDBADABBDCCDBDDBDDACBBDBBCACCCDCDA                                                                           
+AYAZ        HACILI        AFiQ       326258804  A      0553227386 KDDCAADBABBBDDDCDABBDCCDBABBDDBBAB BBCCCCCD DD                                                                           
+MWLWK       DADAsOVA      YUSiF      327851704  A      0554833165 QDDCAADCCBCBDDCCAABCDDCDADBBCDABBB  *CCD CD  D                                                                           
+WKBWR       BAYRAMLI      ORXAN      327248904  A      0773551898 KDDCAADCACCBDDBBBABCDCDDBDBBDDCB B  BC ABCD DA                                                                           
+TUNAR       WLiZADW       BAYRAM     327398904  A      0518672020 KDDCAAACC*BBDDBDDABBACDABDDBDDBBCB DACACCCD DB                                                                           
+WHMWD       MWMMWDLi      VAQiF      325841104  A                 KDDCAADBCBCADDBCAABBDCCCADBBDDABCBDBBCBDBCBADA                                                                           
+WLi         iSMAYILZADW   ETiBAR     309933404  A      0552558597 KDDCAADCABCBDDCCDABBCCADBBBBDDCBBB  BCCCBCDDDD                                                                           
+DAVUD       iSMAYILZADW   ANAR       325916604  A                 KDDCAADCCACBAACDDABAACBA DDCAD BDDCAACABADBCDB                                                                           
+AYsWN       EMiNLi        ZAUR       326889504  A                 QDDCAADBABCBDDBADABBDCCCBDDADDCBBB BBCCDCCBCDA                                                                           
+YUNUS       WLi           RWHiM      325761104  A                 KDDCBAADBBCBDABDBABCBCDDBDBBDDCABBAABDACBCABCA                                                                           
+YUSiF       MURAD         VÜQAR      354409604  A                 KDDCAADBDBCBDDACDABBDCCCBDBBDDCBCBCBACCDCCDADD                                                                           
+RÖYA        CWBiYEVA      RAMiL      352293804  A      0705573033 QDDCAADBADCBDDBDBABBACCABDBBDDCBCB BAADBDCBADC                                                                           
+QARAXAN     SÜLEYMANLI    ELMAR      342530304  A      0556945457 KDDCA DBCABBDDACDABC CCDBBDBADBBCB  CCADCAA D                                                                            
+NWRGiZ      KWRiMOVA      iSLAM      325740804  A                 QDDCA  CABDCDDBCDABBBC DB DBDDADAB DBCAB CAA D                                                                           
+HÜSEYN      MWMMWDZADW    SWNAN      341618304  A                 KDDCAACCABBABDACBABBD CDBDBCADCBBBCBBCBBCDBDD                                                                            
+NURLAN      ABDULLAZADW   NAiL       348891704  A      0553960359 KDDCAADCABBADCBCBABDABCDBDCBCDBCABDCACDBDBCADD                                                                           
+QABiL       WLiZADW       RAQiL      327198904  A                 KDDCAADBBBBCADBCAABDBDCDBBCBDDDBCBDAABAADABCDB                                                                           
+FWRiD       iSMAYiLOV     SABiR      353881504  A      0513136211 KDDCABBBCCCCADDAAABBBDBDC DBDDAA ADA  A  ABDAB                                                                           
+ELMiN       WZiZLi        EMiL       348397804  A                 KDDCACBCCBCADDB DABBBBA BDDC DCBDBBDDABB  DCCB                                                                           
+AYsWN       MWMMWDLi      ELsWN      341616404  A                 QDDCAADCABBDCDBCABBBDDDCCA CACABCA DDABBBDBDAD                                                                           
+AYLiN       WLiZADW       HÜMMWT     351847104  A      0702868188 QDDCAADDCACADDBDAABBACDDBABAADABCABCBBABCBBBCD                                                                           
+BAYRAM      BALAKisiYEV   iSMAYIL    356842404  A      0706641403 KDBCAACBCCDBDCACBABBAACCABCACBCCDABCDBBBDAACAA                                                                           
+CAViDAN     MWMMWDIi      FUAD       327264704  A      0557497970 KDDCAADCCBCBDDBDBABBDCCCBBBADDABCB ADCBBBCDADD                                                                           
+CEYHUN      PAsAVEV       ELMAN      326940104  A      0552651007 KDDCAADCCBCBDCAABABBACADBDBBADBBABDDCBBDDDDADD                                                                           
+iLKiN       HWMiDOV       BWHRUZ     355386604  A                 KDDCAADBABC DDAABABBDCCABDDBDDABCBDDADCDBDDCDA                                                                           
+VALiDW      NWCWFOVA      YUSiF      337595504  A                 QDDCAAACADCBDDBCBABBDCCCADBDDDCBCBDDCCCDDABBAA                   A                                                       
+NiLUFWR     NURi          sAHiN      328669804  A      0556375950 QDDCAADBCBCBBDCCBABCDCCDBDDBDDDBABDDB CDDACCDC                                                                           
